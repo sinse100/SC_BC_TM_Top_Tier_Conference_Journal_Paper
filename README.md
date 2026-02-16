@@ -142,6 +142,7 @@
 + HOUSTON: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols
 + Distributed Broadcast Encryption for Confidential Interoperability across Private Blockchains
 + CtPhishCapture: Uncovering Credential-Theft-Based Phishing Scams Targeting Cryptocurrency Wallets
++ BunnyFinder: Finding Incentive Flaws for Ethereum Consensus
 ### 2025
 + The Forking Way: When TEEs Meet Consensus
 + **PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper)** 
