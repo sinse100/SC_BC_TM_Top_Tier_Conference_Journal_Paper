@@ -416,6 +416,10 @@
 
 # Threat Modeling Paper
 
+## NDSS
+### 2026
++ [Automating Function-Level TARA for Automotive Full-Lifecycle Security](https://www.ndss-symposium.org/wp-content/uploads/2026-s1408-paper.pdf)
+
 ## ASE
 ### 2025
 + [Tool Demonstration Track] [FlowStrider: Low-friction Continuous Threat Modeling](https://elib.dlr.de/219762/1/FlowStrider_preprint.pdf)
