@@ -529,7 +529,7 @@
 #### CyberSecurity in a DevOps Environment
 + Ctam: A Tool for Continuous Threat Analysis and Management
 #### Conference on Game Theory and AI for Security (GameSec)
-+ Honeypot Allocation for Cyber Deception in Dynamic Tactical Networks: A Game Theoretic Approach
++ [Honeypot Allocation for Cyber Deception in Dynamic Tactical Networks: A Game Theoretic Approach](https://arxiv.org/pdf/2308.11817)
 
 
 # CI/CD Paper
