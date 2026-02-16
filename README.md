@@ -528,7 +528,8 @@
 ### 2023
 #### CyberSecurity in a DevOps Environment
 + Ctam: A Tool for Continuous Threat Analysis and Management
-
+#### Conference on Game Theory and AI for Security (GameSec)
++ Honeypot Allocation for Cyber Deception in Dynamic Tactical Networks: A Game Theoretic Approach
 
 
 # CI/CD Paper
@@ -589,7 +590,3 @@
 ### 2026
 + [Orbital Escalation: Modeling Satellite Ransomware Attacks Using Game Theory](https://www.ndss-symposium.org/wp-content/uploads/spacesec26-6.pdf)
   + 기존의 게임 이론 모델은 상시 교신이 가능한 지상 환경을 가정하고 있어, 위성 고유의 간헐적 통신 윈도우와 그에 따른 적은 대응 시간으로 인한 압박을 반영하지 못한다는 한계가 있음. 이러한 제약을 간과할 경우, 위성 운영자에게 현실과 동떨어진 비효율적인 대응 전략을 제시할 위험이 있음. 따라서 본 논문에서는 통신 시간 상의 물리적 제약과 '공격자의 단계별 몸값 에스컬레이션' 및 '방어자의 확률적 복구 성공 가능성'을 통합적으로 반영한 '궤도 에스컬레이션 게임(Orbital Escalation Game)' 모델을 제안함. 이를 통해 위성 운영자가 각 궤도 패스마다 기대 비용을 최소화할 수 있는 최적의 대응 시나리오를 도출함으로써, 위성 대상 랜섬웨어 위협에 특화된 정밀한 의사결정 방법론을 제시함.
- 
-## ETC
-### 2025
-#### 
