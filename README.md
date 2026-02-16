@@ -132,6 +132,16 @@
 + Symposium on Vehicle Security and Privacy (VehicleSec)
 # Blockchain & Smart Contract Paper
 ## NDSS
+### 2026
++ Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol
++ Scalable Off-chain Auction
++ Pallas and Aegis: Rollback Resilience in TEE-Aided Blockchain Consensus
++ Mobius: Enabling Byzantine-Resilient Single Secret Leader Election with Uniquely Verifiable State
++ MEVisor: High-Throughput MEV Discovery in DEXs with GPU Parallelism
++ Light into Darkness: Demystifying Profit Strategies Throughout the MEV Bot Lifecycle
++ HOUSTON: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols
++ Distributed Broadcast Encryption for Confidential Interoperability across Private Blockchains
++ CtPhishCapture: Uncovering Credential-Theft-Based Phishing Scams Targeting Cryptocurrency Wallets
 ### 2025
 + The Forking Way: When TEEs Meet Consensus
 + **PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper)** 
