@@ -143,6 +143,10 @@
 + Distributed Broadcast Encryption for Confidential Interoperability across Private Blockchains
 + CtPhishCapture: Uncovering Credential-Theft-Based Phishing Scams Targeting Cryptocurrency Wallets
 + BunnyFinder: Finding Incentive Flaws for Ethereum Consensus
++ Consensus in the Known Participation Model with Byzantine Faults and Sleepy Replicas
++ Cross-Consensus Reliable Broadcast and its Applications
++ Cryptobazaar: Private Sealed-bid Auctions at Scale
+  
 ### 2025
 + The Forking Way: When TEEs Meet Consensus
 + **PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper)** 
