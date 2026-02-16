@@ -575,3 +575,7 @@
 + [A Game-Theoretic Framework for Dynamic Decoy Placement in Cyber Networks](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310260&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2022
 + [Do you really need to disguise normal servers as honeypots?](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10017586&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
+## SpaceSec
+### 2026
++ [Orbital Escalation: Modeling Satellite Ransomware Attacks Using Game Theory](https://www.ndss-symposium.org/wp-content/uploads/spacesec26-6.pdf)
