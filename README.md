@@ -123,7 +123,7 @@
 + International Conference on Cryptology And Network Security (CANS)
 + International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 + Annual International Conference on Mobile Computing and Networking (MobiCom)
-+ Symposium on Access Control Models and Technologies (SACMAT)
+<!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 + Conference on Emerging Network Experiment and Technology (CoNEXT)
 
 ### workshop
