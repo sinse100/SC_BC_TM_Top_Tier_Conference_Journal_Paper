@@ -227,10 +227,6 @@
 + State Machine Replication Among Strangers, Fast and Self-Sufficient
 + High-Throughput Permissionless Blockchain Consensus under Realistic Network Assumptions
 
-## Blackhat Europe
-### 2025
-+ The Post-NVD Era: A Call for Global CVE Decentralization
-
 ## ASE
 ### 2025
 + [security/privacy]SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
@@ -518,6 +514,12 @@
 + [Automating Cybersecurity Risk Assessment for AI Systems in Military & Critical Infrastructure](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310336&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2024
 + [A game theory for resource-constrained tactical cyber operations](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10773898&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
+## Blackhat Europe
+### 2025
++ [Arsenal] ThreatShield – The Intelligent Way of Threat Modelling
++ [Arsenal] CVE2CAPEC - Convert CVEs to MITRE ATT&CK
++ [Briefings] The Post-NVD Era: A Call for Global CVE Decentralization
 
 ## TSE
 ### 2025
