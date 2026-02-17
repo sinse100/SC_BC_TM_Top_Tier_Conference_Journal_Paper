@@ -411,7 +411,7 @@
 + Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
 
 ## ESORICS
-### 2026
+### 2025
 + Anamorphic Monero Transactions: the Threat of Bypassing Anti-Money Laundering Laws
 + Analysis of input-output mappings in coinjoin transactions with arbitrary values
 + The Economics of Deception: Structural Patterns of Rug Pull across DeFi Blockchains
