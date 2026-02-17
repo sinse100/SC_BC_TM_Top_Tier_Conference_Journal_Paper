@@ -410,6 +410,13 @@
 + FBP-Eth2.0: A Fast Block Propagation in Ethereum 2.0 via Parallel Execution and Proactive Compaction
 + Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
 
+## ESORICS
+### 2026
++ Anamorphic Monero Transactions: the Threat of Bypassing Anti-Money Laundering Laws
++ Analysis of input-output mappings in coinjoin transactions with arbitrary values
++ The Economics of Deception: Structural Patterns of Rug Pull across DeFi Blockchains
++ Premining in the Shadows: How Hidden Blocks Weaken the Security of Proof-of-Work Chains
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
