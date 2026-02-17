@@ -41,7 +41,7 @@
 # List of Top Tier Conference
 ## Industrial Conference
 + DEFCON
-+ Blackhat
++ Blackhat USA/Europe
 + VirusBulletin
 + Threat Modeling Connect (ThreatModCon)
 + CODE BLUE
@@ -227,6 +227,9 @@
 + State Machine Replication Among Strangers, Fast and Self-Sufficient
 + High-Throughput Permissionless Blockchain Consensus under Realistic Network Assumptions
 
+## Blackhat Europe
+### 2025
++ The Post-NVD Era: A Call for Global CVE Decentralization
 
 ## ASE
 ### 2025
