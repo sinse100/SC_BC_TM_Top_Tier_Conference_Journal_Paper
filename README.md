@@ -422,6 +422,7 @@
 + The Byzantine Generals Problem
 + Proof of history: what is it good for?
 + The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments
++ [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 
 
