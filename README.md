@@ -586,11 +586,11 @@
 
 ## ISC
 ### 2025
-+ EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory
++ [EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory]
 
 ## ICASSP
 ### 2025
-+ VN-GT: Optimizing Virtual Network Deployment via Game Theory
++ [VN-GT: Optimizing Virtual Network Deployment via Game Theory](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10888343&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## MILCOM
 ### 2025
