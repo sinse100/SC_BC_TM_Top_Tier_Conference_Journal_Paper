@@ -597,6 +597,7 @@
 + [A Game-Theoretic Framework for Dynamic Decoy Placement in Cyber Networks](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310260&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2022
 + [Do you really need to disguise normal servers as honeypots?](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10017586&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+  + 허니팟 배치 전략 중 정상 서버를 허니팟으로 속이는 전략(공격자가 서버를 허니팟으로 식별하면 공격을 하지 않을 것이라는 점에 착안)이 있음. 본 논문은 방어자 입장에서 해당 전략이 더 큰 이득을 주지 못함을 수학적으로 증명함. 방어자가 정상 서버를 허니팟(가짜 서버이자 미끼)으로 위장할 수 있는 상황을 가정하여, 공격자와 방어자 간의 상호작용을 하나의 게임으로 모델링하고 이를 게임이론적으로 분석하였음. 분석 결과, 정상 서버를 허니팟으로 위장하는 전략은 해당 전략을 사용하지 않는 경우와 비교했을 때 방어자에게 더 큰 이득을 주지 못하고, 오히려 추가적인 비용만 초래하는 것으로 나타났음.
 
 ## SpaceSec
 ### 2026
