@@ -550,6 +550,8 @@
 ### 2022
 #### International Conference on Availability, Reliability and Security (ARES)
 + [GTM: Game Theoretic Methodology for optimal cybersecurity defending strategies and investments](https://dl.acm.org/doi/pdf/10.1145/3538969.3544431)
+#### IEEE Computer Society's flagship conference on Computers, Software, and Applications (COMPSAC)
++ [A Multi-Objective Approach for Security Hardening and Probabilistic Vulnerability Assessment on Attack Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9842592&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 # CI/CD Paper
 ## ISSRE
