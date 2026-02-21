@@ -456,6 +456,11 @@
 
 # Threat Modeling Paper
 
+## ESCAR Europe
+### 2025
++ GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains
++ STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation 
+
 ## NDSS
 ### 2026
 + [Automating Function-Level TARA for Automotive Full-Lifecycle Security](https://www.ndss-symposium.org/wp-content/uploads/2026-s1408-paper.pdf)
