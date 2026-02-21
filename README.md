@@ -428,6 +428,7 @@
 + Eclipse Attacks on Ethereum’s Peer-to-Peer Network
 + LiquidityPool: Game-Theoretic Analysis of Stakeholder Revenue in Ranking-Dependent DeFi
 + Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
++ Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
 
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
