@@ -523,7 +523,7 @@
 ## Blackhat Europe
 ### 2025
 + [Arsenal] ThreatShield – The Intelligent Way of Threat Modelling
-+ [Arsenal] CVE2CAPEC - Convert CVEs to MITRE ATT&CK
++ [Arsenal] [CVE2CAPEC - Convert CVEs to MITRE ATT&CK](https://github.com/Galeax/CVE2CAPEC)
 + [Briefings] The Post-NVD Era: A Call for Global CVE Decentralization
 
 ## TSE
