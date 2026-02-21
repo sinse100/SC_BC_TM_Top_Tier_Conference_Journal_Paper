@@ -430,7 +430,7 @@
 + Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
 + Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
 
-## CODASPY
+## SAC
 ### 2026
 + Randomness is good enough in DAG-based Federated Learning
 + FRAIN to Train: A Fast-and-Reliable  Solution for Decentralized Asynchronous Federated Learning
