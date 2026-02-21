@@ -517,7 +517,9 @@
 + [A game theory for resource-constrained tactical cyber operations](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10773898&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2021
 + [Honeypot Allocation for Cyber Deception in Internet of Battlefield Things Systems](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9652927&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-
+  + 복잡한 네트워크 규모를 가진 IoBT 환경에서는 기존의 게임 이론적 접근 방법을 써서 게임 시뮬레이션을 돌리면 너무 시간이 오래 걸린다.
+  + 노드 별 중요도를 기입하는 방법에 대한 가이드라인이 추상적으로 제시되어 있다. 논문에는 공격자의 최종 목표에 해당하는 노드의 중요도가, 그 목표에 도달하기 위해 중간에 거치는 노드들의 중요도보다 높다고만 기술되어 있다.
+        
 ## Blackhat Europe
 ### 2025
 + [Arsenal] ThreatShield – The Intelligent Way of Threat Modelling
