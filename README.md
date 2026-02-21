@@ -430,6 +430,20 @@
 + Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
 + Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
 
+## CODASPY
+### 2026
++ Randomness is good enough in DAG-based Federated Learning
++ FRAIN to Train: A Fast-and-Reliable  Solution for Decentralized Asynchronous Federated Learning
++ Mitigating MEV with Verifiable  Randomness: A VRF-Seeded Fair Transaction  Ordering Protocol
++ RepStake: A Blockchain-Based Trust System with Reputation Staking
++ A Framework for Zero-Knowledge Proofs of Exploits in Solidity Smart Contracts
++ A Decentralized Behavioral Trust Framework Across Mobile Networks
++ Toward Decentralized Asset Interoperability in a Heterogeneous Blockchain Environment: A Case Study of the XRP Ledger and EVM Blockchains
++ Evaluation of Smart Contract Tools for Comprehensive Vulnerability Detection and Optimal Integration
++ Delegated Keys for Smart Wallets: Enabling Secure Transaction Execution from Apple Watch via ERC-4337 & Kernel Wallet
++ A Methodology for Verifiable Query Result Integrity in Blockchain Indexing Systems
++ A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
