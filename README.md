@@ -417,6 +417,18 @@
 + The Economics of Deception: Structural Patterns of Rug Pull across DeFi Blockchains
 + Premining in the Shadows: How Hidden Blocks Weaken the Security of Proof-of-Work Chains
 
+## WWW
+### 2026
++ BIND: Enabling Continuous Transaction Processing During Account Migration in Sharded Blockchains
++ Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception
++ Alzo: Auto-Tuning with Reinforcement Learning for DAG-based Blockchains
++ Evasion Under Blockchain Sanctions
++ Risk-free Selfish Mining in Hybrid Predictability Model. A Case Study on Polkadot’s NPoS
++ The Promise vs. Reality of NFT Decentralization: An Empirical Study of Storage Strategies and Defects
++ Eclipse Attacks on Ethereum’s Peer-to-Peer Network
++ LiquidityPool: Game-Theoretic Analysis of Stakeholder Revenue in Ranking-Dependent DeFi
++ Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
