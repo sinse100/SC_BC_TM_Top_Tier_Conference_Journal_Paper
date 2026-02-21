@@ -113,6 +113,7 @@
 + International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)
 + European Symposium on Programming (ESOP)
 + International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH)
++ ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH Asia)
 + International Conference on Very Large Data Bases (VLDB)
 + Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 + International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)
