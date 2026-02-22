@@ -28,7 +28,7 @@
 + Edmund Melson Clarke (Founder of Model Checking, Turing Awards Winner)
 
 # List of Top Tier Journal
-+ [Distributed Ledger Technologies: Research and Practice](https://www.facebook.com/groups/141562709261263/posts/9544207665663340/?__cft__[0]=AZbHhB548tMZWGUQLGQMnU2o8fVo-h-Y4eI0F426F9q79B9SLbgYiAM7Y4UEX6W37FIMO_srX-SGLxfdSEPno21wMXZpW-IkEWf-3dA16VCHw62sJ_Dlw6vFzJ7MvLIl6DCaAy7CJ28Obk-UUMVaMy4WgeEm6SEx8ZeL9UX9UHq21ortFTESg8rv1fMX0UII8QolA9WN_LuniA6YhnVerkRc&__tn__=%2CO%2CP-R)
++ Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Information Forensics and Security (TIFS)
 + ACM Computing Surveys
 + IEEE Transactions on Software Engineering (TSE)
@@ -93,11 +93,11 @@
 + International Conference on Blockchain and Cryptocurrency (ICBC)
 + Military Communications Conference (MILCOM)
 + NASA Formal Methods Symposium (NFM)
-+ [International Common Criteria Conference (ICCC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
++ International Common Criteria Conference (ICCC)
 + International Conference on Cloud Computing (CLOUD)
 + USENIX Symposium on Networked Systems Design and Implementation (NSDI)
 + Secure Development Conference (SecDev)
-+ [Digital Forensic Research Workshop (DFRWS)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
++ Digital Forensic Research Workshop (DFRWS)
 + Symposium on Operating Systems Principles (SOSP)
 + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
 + International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA)
@@ -118,14 +118,14 @@
 + Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 + International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)
 + International Symposium on Software Reliability Engineering (ISSRE)
-+ [Information Security Conference (ISC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
++ Information Security Conference (ISC)
 + International Middleware Conference (Middleware)
 + International Symposium on Distributed Computing (DISC)
 + International Conference on Cryptology And Network Security (CANS)
 + International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 + Annual International Conference on Mobile Computing and Networking (MobiCom)
-<!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 + Conference on Emerging Network Experiment and Technology (CoNEXT)
+<!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 
 ### workshop
 + Workshop on the Security of Space and Satellite Systems (SpaceSec)
