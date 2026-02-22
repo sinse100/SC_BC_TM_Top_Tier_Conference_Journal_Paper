@@ -458,8 +458,8 @@
 
 ## ESCAR Europe
 ### 2025
-+ GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains
-+ STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation 
++ [GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/13657/Paper4.pdf)
++ [STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation](https://arxiv.org/pdf/2509.20190)
 
 ## NDSS
 ### 2026
