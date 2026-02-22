@@ -444,6 +444,11 @@
 + A Methodology for Verifiable Query Result Integrity in Blockchain Indexing Systems
 + A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
 
+## PETS
+### 2026
++ CoinJoin ecosystem insights for Wasabi 1.x, Wasabi 2.x and Whirlpool coordinator-based privacy mixers
++ Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
