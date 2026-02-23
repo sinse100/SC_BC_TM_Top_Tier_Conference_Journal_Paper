@@ -449,6 +449,10 @@
 + CoinJoin ecosystem insights for Wasabi 1.x, Wasabi 2.x and Whirlpool coordinator-based privacy mixers
 + Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
 
+## VehicleSec
+### 2025
++ [Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain](https://www.usenix.org/system/files/vehiclesec25-khan.pdf)
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
