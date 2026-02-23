@@ -612,6 +612,11 @@
 ## FSE
 ### 2023
 + [HyperDiff: Computing Source Code Diffs at Scale](https://dl.acm.org/doi/pdf/10.1145/3611643.3616312)
+
+## SANER
+### 2025
++ [Reduce Before you Repair: Advantages of Combining Program Slicing with Automated Program Repair](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10992330&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ## ASE
 ### 2024
 + [Research] Efficient Incremental Code Coverage Analysis for Regression Test Suites
