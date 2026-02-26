@@ -295,7 +295,7 @@
 
 ## AAAI
 ### 2025
-+ SCALM: Detecting Bad Practices in Smart Contracts Through LLMs
++ [SCALM: Detecting Bad Practices in Smart Contracts Through LLMs](https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181)
 
 ## AFT
 ### 2025
