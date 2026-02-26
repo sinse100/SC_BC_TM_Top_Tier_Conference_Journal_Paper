@@ -256,7 +256,8 @@
 ## FC
 ### 2026
 + Compliance as a Trust Metric
-+ [LLMs as verification oracles for Solidity](https://ifca.ai/fc26/preproceedings/166.pdf)
++ [LLMs as verification oracles for Solidity](https://ifca.ai/fc26/preproceedings/253.pdf)
++ [AI Agent Smart Contract Exploit Generation](https://ifca.ai/fc26/preproceedings/166.pdf)
 ### 2025
 + A Formally Verified Lightning Network
 + Strengthening Multi-hop Channels via Strategic Mesh Connections
