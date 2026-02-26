@@ -147,6 +147,7 @@
 + Consensus in the Known Participation Model with Byzantine Faults and Sleepy Replicas
 + Cross-Consensus Reliable Broadcast and its Applications
 + Cryptobazaar: Private Sealed-bid Auctions at Scale
++ Phishing in Wonderland: Evaluating Learning-Based Ethereum Phishing Transaction Detection and Pitfalls
   
 ### 2025
 + The Forking Way: When TEEs Meet Consensus
