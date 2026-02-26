@@ -435,7 +435,7 @@
 
 ## SAC
 ### 2026
-+ Randomness is good enough in DAG-based Federated Learning
++ [Randomness is good enough in DAG-based Federated Learning](https://hal.science/hal-05326573v1/file/Randomness_is_good_enough_in_DAG_based_Federated_Learning__submiited_HAL.pdf)
 + FRAIN to Train: A Fast-and-Reliable  Solution for Decentralized Asynchronous Federated Learning
 + Mitigating MEV with Verifiable  Randomness: A VRF-Seeded Fair Transaction  Ordering Protocol
 + RepStake: A Blockchain-Based Trust System with Reputation Staking
