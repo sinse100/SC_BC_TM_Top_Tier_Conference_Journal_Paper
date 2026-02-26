@@ -652,7 +652,7 @@
 
 ## ISC
 ### 2025
-+ [EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory]
++ EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory
 
 ## ICASSP
 ### 2025
