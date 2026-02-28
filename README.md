@@ -257,6 +257,7 @@
 ### 2026
 + [Where Does MEV Really Come From? Revisiting CEX–DEX Arbitrage on Ethereum](https://ifca.ai/fc26/preproceedings/117.pdf)
 + [Latency Advantages in Common-Value Auctions](https://ifca.ai/fc26/preproceedings/197.pdf)
++ [A Trilemma in AMM Mechanism Design](https://ifca.ai/fc26/preproceedings/216.pdf)
 + [LLMs as verification oracles for Solidity](https://ifca.ai/fc26/preproceedings/253.pdf)
 + [AI Agent Smart Contract Exploit Generation](https://ifca.ai/fc26/preproceedings/166.pdf)
 ### 2025
