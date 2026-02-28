@@ -260,6 +260,8 @@
 + [A Trilemma in AMM Mechanism Design](https://ifca.ai/fc26/preproceedings/216.pdf)
 + [LLMs as verification oracles for Solidity](https://ifca.ai/fc26/preproceedings/253.pdf)
 + [AI Agent Smart Contract Exploit Generation](https://ifca.ai/fc26/preproceedings/166.pdf)
++ [On Cryptographic Cheap Talk with Smart Contracts](https://fc26.ifca.ai/preproceedings/30.pdf)
++ [Bribers, Bribers on The Chain, Is Resisting All in Vain? Trustless Consensus Manipulation Through Bribing Contracts](https://fc26.ifca.ai/preproceedings/95.pdf)
 ### 2025
 + A Formally Verified Lightning Network
 + Strengthening Multi-hop Channels via Strategic Mesh Connections
