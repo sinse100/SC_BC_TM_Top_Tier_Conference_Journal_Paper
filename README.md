@@ -603,6 +603,8 @@
 + [GTM: Game Theoretic Methodology for optimal cybersecurity defending strategies and investments](https://dl.acm.org/doi/pdf/10.1145/3538969.3544431)
 #### IEEE Computer Society's flagship conference on Computers, Software, and Applications (COMPSAC)
 + [A Multi-Objective Approach for Security Hardening and Probabilistic Vulnerability Assessment on Attack Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9842592&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+#### ACSW
++ [A Comparative Analysis of UNECE WP.29 R155 and ISO/SAE 21434](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9799351&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2020
 #### GameSec
 + [Game theory on attack graph for cyber deception](https://www.gamesec-conf.org/2020/GameSec_Proceeding_2020/Paper%20invited%202.pdf)
