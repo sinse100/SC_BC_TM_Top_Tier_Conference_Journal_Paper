@@ -614,6 +614,10 @@
 ### 2020
 #### GameSec
 + [Game theory on attack graph for cyber deception](https://www.gamesec-conf.org/2020/GameSec_Proceeding_2020/Paper%20invited%202.pdf)
+### 2011
+#### Requirements Engineering
++ [A privacy threat analysis framework: supporting the elicitation and fulfillment of privacy requirements](https://link.springer.com/content/pdf/10.1007/s00766-010-0115-7.pdf)
+
 
 # CI/CD Paper
 ## ISSRE
