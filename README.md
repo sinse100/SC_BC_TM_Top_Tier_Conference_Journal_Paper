@@ -597,7 +597,7 @@
 #### Conference on Game Theory and AI for Security (GameSec)
 + [Honeypot Allocation for Cyber Deception in Dynamic Tactical Networks: A Game Theoretic Approach](https://arxiv.org/pdf/2308.11817)
 #### Workshop on Automotive Cyber Security(ACSW)
-+ A threat model for soft privacy on smart cars
++ [A threat model for soft privacy on smart cars](https://arxiv.org/pdf/2306.04222)
 ### 2022
 #### International Conference on Availability, Reliability and Security (ARES)
 + [GTM: Game Theoretic Methodology for optimal cybersecurity defending strategies and investments](https://dl.acm.org/doi/pdf/10.1145/3538969.3544431)
