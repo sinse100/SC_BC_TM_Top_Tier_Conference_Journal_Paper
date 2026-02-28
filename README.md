@@ -592,6 +592,9 @@
 + [Run-time threat models for systematic and continuous risk assessment](https://link.springer.com/content/pdf/10.1007/s10270-024-01242-5.pdf)
 #### CoNEXT Workshop on Blockchain-Network Synergy
 + [Efficient DoS Attack Defense Strategy for Blockchain Networks Based on Bayesian Attack Graph and Stackelberg Game](https://dl.acm.org/doi/pdf/10.1145/3769698.3771228)
+### 2024
+#### Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)
++ [Secmons: A security monitoring framework for iec 61850 substations based on configuration files and logs](https://research.vu.nl/ws/portalfiles/portal/367931076/SecMonS_A_Security_Monitoring_Framework_for_IEC_61850_Substations_Based_on_Configuration_Files_and_Logs.pdf)
 ### 2023
 #### CyberSecurity in a DevOps Environment
 + Ctam: A Tool for Continuous Threat Analysis and Management
