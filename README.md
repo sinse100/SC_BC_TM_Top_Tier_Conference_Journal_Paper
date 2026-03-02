@@ -172,7 +172,7 @@
 + Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks
 + Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain
 + Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue
-+ SoK: Understanding zk-SNARKs: The Gap Between Research and Practice
++ [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice](https://www.usenix.org/system/files/usenixsecurity25-liang-sok.pdf)
 + Blockchain Address Poisoning
 + Approve Once, Regret Forever: On the Exploitation of Ethereum's Approve-TransferFrom Ecosystem
 + Let's Move2EVM
