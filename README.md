@@ -373,7 +373,7 @@
 + Performance Modeling of Public Permissionless Blockchains: A Survey
 
 ### 2024
-+ [security/privacy] Security Aspects of Cryptocurrency Wallets - A Systematic Literature Review
++ [security/privacy] [Security Aspects of Cryptocurrency Wallets - A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3596906)
 + [security/privacy] Survey on Secure Keyword Search over Outsourced Data: From Cloud to Blockchain-assisted Architecture
 + [security/privacy] On Identity, Transaction, and Smart Contract Privacy on Permissioned and Permissionless Blockchain: A Comprehensive Survey
 + [security/privacy] An All-Inclusive Taxonomy and Critical Review of Blockchain-Assisted Authentication and Session Key Generation Protocols for IoT
