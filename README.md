@@ -207,7 +207,7 @@
 ### 2025
 + [security/privacy] Constant latency and finality for dynamically available DAG
 + [security/privacy] Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
-+ [security/privacy] [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms](A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms)
++ [security/privacy] [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11023254&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 + [security/privacy] Warning! The Timeout T Cannot Protect You From Losing Coins, PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
 + [security/privacy] Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More
 + [security/privacy] Decentralization of Ethereum's Builder Market
