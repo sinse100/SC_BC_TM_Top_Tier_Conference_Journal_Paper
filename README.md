@@ -486,6 +486,8 @@
 ## ASE
 ### 2025
 + [Tool Demonstration Track] [FlowStrider: Low-friction Continuous Threat Modeling](https://elib.dlr.de/219762/1/FlowStrider_preprint.pdf)
+### 2024
++ [Tool Demonstrations] [VulZoo: A Comprehensive Vulnerability Intelligence Dataset](https://dl.acm.org/doi/pdf/10.1145/3691620.3695345)
 
 ## SecDev
 ### 2024
