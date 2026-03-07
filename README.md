@@ -204,6 +204,12 @@
 + KZH-Fold: Accountable Voting from Sublinear Accumulation
 
 ## S&P
+### 2026
++ Jigsaw: Doubly Private Smart Contracts
++ Fast Deterministically Safe Proof-of-Work Consensus
++ Mechanized Safety and Liveness Proofs for the Mysticeti Consensus Protocol under the LiDO-DAG Framework
++ Scalable Accountable Byzantine Agreement and Beyond
+  
 ### 2025
 + [security/privacy] Constant latency and finality for dynamically available DAG
 + [security/privacy] Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
