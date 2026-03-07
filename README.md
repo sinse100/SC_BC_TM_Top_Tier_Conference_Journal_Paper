@@ -462,6 +462,11 @@
 ### 2025
 + [Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain](https://www.usenix.org/system/files/vehiclesec25-khan.pdf)
 
+## DSN
+### 2025
++ [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
++ [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
@@ -537,6 +542,8 @@
 + [Revisiting Automotive Attack Surfaces: a Practitioners’ Perspective](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10646688&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## DSN
+### 2025
++ [Attack-Defense Trees with Offensive and Defensive Attributes](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068880&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2023
 + [PASTA: Pragmatic Automated System-Theoretic Process Analysis](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10202635&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
   + 기존의 텍스트 기반 STPA 도구는 수정 사항 확인과 버전 관리에는 유리하지만, 전체적인 위협 모델링 내역을 직관적으로 파악하기 어렵다는 한계가 있었음(텍스트 기반 위협 모델링 도구는 위협 모델링 내역의 변경 발생 시 텍스트 어느 줄의 어느 부분이 바뀌었는지 직관적으로 확인 가능하나, 그림 기반 위협 모델링 도구는 픽셀 단위의 변경 정보를 제공하기 때문에 위협 모델링 변경 내역을 직관적으로 알아보기 어려움). 이를 해결하기 위해 개발된 PASTA는 텍스트 기반 모델링과 그림 기반 모델링을 융합한 'Modeling Pragmatics' 개념을 도입하여, 버전 관리는 DSL로 수행하고 결과물은 자동으로 시각화하는 방식을 취함. 특히 DSL 기반의 제어 구조를 바탕으로 가능한 모든 UCA 목록을 컨텍스트 테이블로 자동 생성하여 분석의 효율을 높음. 도구의 성능 평가는 Ludvigsen과 Souza가 정립한 STPA 도구의 필수 기능적 요구사항을 기준으로 진행되었으며, XSTAMPP와 SAHRA 등 기존 도구와 비교했을 때 PASTA가 자동 레이아웃, 시각적 추적성, 규칙 기반 유효성 검사 등 더 폭넓은 기능을 높은 수준으로 충족하고 있음을 정성적으로 입증하였음.
