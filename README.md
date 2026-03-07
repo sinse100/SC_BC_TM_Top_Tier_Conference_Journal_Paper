@@ -210,7 +210,8 @@
 + Fast Deterministically Safe Proof-of-Work Consensus
 + Mechanized Safety and Liveness Proofs for the Mysticeti Consensus Protocol under the LiDO-DAG Framework
 + Scalable Accountable Byzantine Agreement and Beyond
-  
++ Coral: Fast Succinct Non-Interactive Zero-Knowledge CFG Proofs
+
 ### 2025
 + Constant latency and finality for dynamically available DAG
 + Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
