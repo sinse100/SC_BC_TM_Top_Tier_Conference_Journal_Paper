@@ -493,7 +493,7 @@
 + [Briefing] Fortifying the Foundation: LLM-Empowered Differential Testing for the Ethereum Infrastructure
 + [Arsenal] Bastet - AI Smart Contract Vulnerability Detector
 + [Arsenal] Mothra: Timeless debugging of EVM transactions with Ghidra
-## 2022
+### 2022
 ### Victor Shoup
 + Proof of history: what is it good for?
 ### 2016
