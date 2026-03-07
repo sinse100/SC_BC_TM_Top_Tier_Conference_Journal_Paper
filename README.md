@@ -486,7 +486,7 @@
 
 ## TOPLAS
 ### 1982
-+ The Byzantine Generals Problem
++ [The Byzantine Generals Problem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiJ7vOHro6TAxXNnK8BHUkFKc4QFnoECAwQAQ&url=https%3A%2F%2Flamport.azurewebsites.net%2Fpubs%2Fbyz.pdf&usg=AOvVaw2TUQth8WaXRXn1bNF1AW0H&opi=89978449)
 
 ## ETC
 ### 2026
