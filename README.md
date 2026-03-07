@@ -37,6 +37,7 @@
 + IEEE Transactions on Network Science and Engineering (TNSE)
 + IEEE Transactions on Parallel and Distributed Systems (TPDS)
 + IEEE Transactions on Robotics (T-RO)
++ ACM Transactions on Programming Languages and Systems (TOPLAS)
 
 # List of Top Tier Conference
 ## Industrial Conference
@@ -228,6 +229,10 @@
 + [security/privacy] Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
 + [security/privacy] TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
 + [security/privacy] Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
+
+### 2020
++ [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 
 ## CRYPTO
 ### 2025
@@ -478,25 +483,32 @@
 + [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 + [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
+## TOPLAS
+### 1982
++ The Byzantine Generals Problem
+
 ## ETC
 ### 2026
-#### Blackhat 2026
+#### Blackhat Asia
 + [Briefing] Fortifying the Foundation: LLM-Empowered Differential Testing for the Ethereum Infrastructure
 + [Arsenal] Bastet - AI Smart Contract Vulnerability Detector
 + [Arsenal] Mothra: Timeless debugging of EVM transactions with Ghidra
-
-
-+ Bitcoin: A Peer-to-Peer Electronic Cash System
-+ Ethereum Whitepaper
-+ The Byzantine Generals Problem
+## 2022
+### Victor Shoup
 + Proof of history: what is it good for?
-+ The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments
-+ [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+### 2016
+#### Bitcoin Lightning Network 
++ The bitcoin lightning network: Scalable off-chain instant payments
+### 2013
+#### Ethereum
++ Ethereum Whitepaper
+### 2008
+#### Bitcoin
++ Bitcoin: A Peer-to-Peer Electronic Cash System
 
 
 
 # Threat Modeling Paper
-
 ## ESCAR Europe
 ### 2025
 + [GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/13657/Paper4.pdf)
