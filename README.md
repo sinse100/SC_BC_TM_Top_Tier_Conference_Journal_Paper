@@ -254,6 +254,11 @@
 + Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
 + ScaleCirc: Scaling the Analysis over Circom Circuits
 
+## FSE
+### 2025
++ [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
+  + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
+
 ## FC
 ### 2026
 + [Where Does MEV Really Come From? Revisiting CEX–DEX Arbitrage on Ethereum](https://ifca.ai/fc26/preproceedings/117.pdf)
