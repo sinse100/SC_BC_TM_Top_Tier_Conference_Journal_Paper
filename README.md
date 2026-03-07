@@ -483,7 +483,7 @@
 #### Blackhat 2026
 + [Briefing] Fortifying the Foundation: LLM-Empowered Differential Testing for the Ethereum Infrastructure
 + [Arsenal] Bastet - AI Smart Contract Vulnerability Detector
-
++ [Arsenal] Mothra: Timeless debugging of EVM transactions with Ghidra
 
 
 + Bitcoin: A Peer-to-Peer Electronic Cash System
