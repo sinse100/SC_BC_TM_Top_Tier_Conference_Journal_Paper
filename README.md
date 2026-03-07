@@ -633,6 +633,9 @@
 #### Requirements Engineering
 + [A privacy threat analysis framework: supporting the elicitation and fulfillment of privacy requirements](https://link.springer.com/content/pdf/10.1007/s00766-010-0115-7.pdf)
   + LINDDUN에서는 공격 시나리오를 위협 시나리오(시스템 내에 위협이 발생하는 과정)라고 표현함. 그리고 이 위협 시나리오를 표현하는 방법론 중 하나로 오용 사례(misuse case)가 있음. 오용 사례에서는 위협원(misactor)이 외부자인지 내부자인지, 또 선의의 사용자에 의하여 사고로 의해 발생 가능한 시나리오인지 악의를 가진 공격자에 의하여 발생가능한 시나리오인지 구분하도록 명시되어있음
+### 1997
+#### IEEE Annals of the History of Computing
++ [Mathematics, Technology, and Trust: Formal Verification, Computer Security, and the U.S. Military](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=601735&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 
 # CI/CD Paper
