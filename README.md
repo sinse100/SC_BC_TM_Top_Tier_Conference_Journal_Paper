@@ -479,6 +479,13 @@
 + [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## ETC
+### 2026
+#### Blackhat 2026
++ [Briefing] Fortifying the Foundation: LLM-Empowered Differential Testing for the Ethereum Infrastructure
++ [Arsenal] Bastet - AI Smart Contract Vulnerability Detector
+
+
+
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
 + The Byzantine Generals Problem
@@ -613,6 +620,9 @@
 + [MITRE ATT&CK: State of the Art and Way Forward](https://dl.acm.org/doi/pdf/10.1145/3687300)
 
 ## ETC
+### 2026
+#### Blackhat Asia
++ [Arsenal] Continuous CyberBattleSim: A More Realistic Simulation for AI-driven Attack Path Discovery
 ### 2025
 #### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 + [PILLAR: LINDDUN Privacy Threat Modeling Using LLMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11129583&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
