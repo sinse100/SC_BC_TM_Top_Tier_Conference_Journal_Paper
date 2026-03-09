@@ -636,6 +636,8 @@
 ### 2026
 #### Blackhat Asia
 + [Arsenal] Continuous CyberBattleSim: A More Realistic Simulation for AI-driven Attack Path Discovery
+#### Workshop on LLM Assisted Security and Trust Exploration (LAST-X)
++ [PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM](https://www.ndss-symposium.org/wp-content/uploads/lastx2026-80.pdf)
 ### 2025
 #### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 + [PILLAR: LINDDUN Privacy Threat Modeling Using LLMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11129583&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
