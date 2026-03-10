@@ -684,10 +684,22 @@
 #### IEEE Annals of the History of Computing
 + [Mathematics, Technology, and Trust: Formal Verification, Computer Security, and the U.S. Military](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=601735&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
+# Automated Reapir & Patch
+## ICSE
+### 2026
++ [Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair](https://arxiv.org/pdf/2512.22633)
+## ETC
+### 2025
+#### International Workshop on Automated Program Repair (APR)
++ [Can GPT-o1 kill all bugs? an evaluation of GPT-Family LLMs on QuixBugs](https://ieeexplore.ieee.org/iel8/11029548/11029648/11029663.pdf?casa_token=DmyXBc_7sLkAAAAA:oNbEpeCrDYRlmS3ouvnkQlB4nPXqXSckbt9mmY3HivPhVWYNvfGqzbvi9m_dHv0qzsnxemw)
+### 2024
+#### APR
++ [ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs](https://dl.acm.org/doi/pdf/10.1145/3643788.3648011)
+
 
 # CI/CD Paper
 ## ISSRE
-## 2025
+### 2025
 + A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs
 + SimFuzz: Conflict-Aware Parallel Fuzzing via Incremental Path Similarity Clustering
 + Refactoring ≠ Bug-Inducing: Improving Defect Prediction with Code Change Tactics Analysis
