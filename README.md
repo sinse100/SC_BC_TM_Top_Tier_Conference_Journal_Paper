@@ -484,6 +484,17 @@
 + [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 + [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
+## ICSE
+### 2026
++ [Boosting Gas Revenues of Ethereum Miners](https://hal.science/hal-05458791v1/file/main.pdf)
++ EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models
++ [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://www.eecg.toronto.edu/~veneris/ICSE26.pdf)
++ [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction](https://arxiv.org/pdf/2506.18795)
++ [Precise Static Identification of Ethereum Storage Variables](https://arxiv.org/pdf/2503.20690)
++ [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134)
++ [Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context](https://arxiv.org/pdf/2601.21593)
++ GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
+
 ## TOPLAS
 ### 1982
 + [The Byzantine Generals Problem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiJ7vOHro6TAxXNnK8BHUkFKc4QFnoECAwQAQ&url=https%3A%2F%2Flamport.azurewebsites.net%2Fpubs%2Fbyz.pdf&usg=AOvVaw2TUQth8WaXRXn1bNF1AW0H&opi=89978449)
