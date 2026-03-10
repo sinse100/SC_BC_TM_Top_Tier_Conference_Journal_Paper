@@ -1,4 +1,5 @@
 # 출처
+
 + [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
 + [교수님 페이스북]()
 + [교수님 블로그](https://blog.naver.com/amhoin/221291896225)
@@ -7,8 +8,10 @@
 + [서울대학교 공과대학 컴퓨터공학부 Top Conference List](https://cse.snu.ac.kr/research/top-conference-list)
 + [TEXAS A&M Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm?fbclid=IwY2xjawPuWZdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeSVeB93ATtZNE2FK-ntndoTJqzU20b-ZysEUjD0UgoD6a8-os7w3foj3ooMo_aem_EBo5mpejpTVl4oxmZ3wcdw)
 
+---
 
 # Blockchain & Smart Contract Celebrities
+
 + [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao) (Co-Founder of Ethereum)
 + Gavin Wood (Co-Founder of Ethereum)
 + Silvio Micali (Co-Founder of ZKP, Turing Awards Winner, Founder of Algorand)
@@ -18,16 +21,25 @@
 + Shafi Goldwasser (Co-Founder of ZKP, Turing Awards Winner)
 + Leslie Lamport (Turing Awards Winner)
 
+---
+
 # Threat Modeling Celebrities
+
 + Adam Shostack (Co-Founder of CVE, Author of 'Threat Modeling: Designing for Security', Lead Designer of Microsoft SDL Threat Modeling Tool)
 + Bruce Schneier (Founder of Attack Tree)
 + Loren Kohnfelder (Founder of STRIDE)
 + Mina Deng (Founder of LINDDUN)
 
+---
+
 # Etc Celebrities
+
 + Edmund Melson Clarke (Founder of Model Checking, Turing Awards Winner)
 
+---
+
 # List of Top Tier Journal
+
 + Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Information Forensics and Security (TIFS)
 + ACM Computing Surveys
@@ -39,14 +51,19 @@
 + IEEE Transactions on Robotics (T-RO)
 + ACM Transactions on Programming Languages and Systems (TOPLAS)
 
+---
+
 # List of Top Tier Conference
+
 ## Industrial Conference
+
 + DEFCON
 + Blackhat USA/Europe
 + VirusBulletin
 + Threat Modeling Connect (ThreatModCon)
 + CODE BLUE
 + Embedded Security in Cars (ESCAR)
+
 ## Academic Conference
 
 + Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
@@ -130,12 +147,19 @@
 <!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 
 ### workshop
+
 + Workshop on the Security of Space and Satellite Systems (SpaceSec)
 + International Workshop on Formal Methods for Blockchains (FMBC)
 + Symposium on Vehicle Security and Privacy (VehicleSec)
+
+---
+
 # Blockchain & Smart Contract Paper
+
 ## NDSS
+
 ### 2026
+
 + Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol
 + Scalable Off-chain Auction
 + Pallas and Aegis: Rollback Resilience in TEE-Aided Blockchain Consensus
@@ -152,6 +176,7 @@
 + Phishing in Wonderland: Evaluating Learning-Based Ethereum Phishing Transaction Detection and Pitfalls
   
 ### 2025
+
 + The Forking Way: When TEEs Meet Consensus
 + **PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper)** 
 + Mysticeti: Reaching the Latency Limits with Uncertified DAGs
@@ -165,7 +190,9 @@
 + MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers
 
 ## USENIX Security
+
 ### 2025
+
 + Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer
 + Voting-Bloc Entropy: A New Metric for DAO Decentralization
 + Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake
@@ -188,7 +215,9 @@
 + Thunderdome: Timelock-Free Rationally-Secure Virtual Channels
 
 ## CCS
+
 ### 2025
+
 + **Forking the RANDAO: Manipulating Ethereum's Distributed Randomness Beacon (Distinguished Paper Award)**
 + SyRA: Sybil-Resilient Anonymous Signatures with Applications to Decentralized Identity
 + QV-net: Decentralized Self-Tallying Quadratic Voting with Maximal Ballot Secrecy
@@ -205,7 +234,9 @@
 + KZH-Fold: Accountable Voting from Sublinear Accumulation
 
 ## S&P
+
 ### 2026
+
 + Jigsaw: Doubly Private Smart Contracts
 + Fast Deterministically Safe Proof-of-Work Consensus
 + Mechanized Safety and Liveness Proofs for the Mysticeti Consensus Protocol under the LiDO-DAG Framework
@@ -213,6 +244,7 @@
 + Coral: Fast Succinct Non-Interactive Zero-Knowledge CFG Proofs
 
 ### 2025
+
 + Constant latency and finality for dynamically available DAG
 + Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
 + [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11023254&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
@@ -232,18 +264,22 @@
 + Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
 
 ### 2020
+
 + [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
-
 ## CRYPTO
+
 ### 2025
+
 + Merkle Mountain Ranges are Optimal: On the Witness Update Frequency of Cryptographic Accumulators
 + Foundations of Platform-Assisted Auctions
 + State Machine Replication Among Strangers, Fast and Self-Sufficient
 + High-Throughput Permissionless Blockchain Consensus under Realistic Network Assumptions
 
 ## ASE
+
 ### 2025
+
 + [security/privacy]SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
 + Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs
 + [security/privacy] Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model
@@ -267,12 +303,16 @@
 + ScaleCirc: Scaling the Analysis over Circom Circuits
 
 ## FSE
+
 ### 2025
+
 + [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
   + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
 
 ## FC
+
 ### 2026
+
 + [Where Does MEV Really Come From? Revisiting CEX–DEX Arbitrage on Ethereum](https://ifca.ai/fc26/preproceedings/117.pdf)
 + [Latency Advantages in Common-Value Auctions](https://ifca.ai/fc26/preproceedings/197.pdf)
 + [A Trilemma in AMM Mechanism Design](https://ifca.ai/fc26/preproceedings/216.pdf)
@@ -281,7 +321,9 @@
 + [On Cryptographic Cheap Talk with Smart Contracts](https://fc26.ifca.ai/preproceedings/30.pdf)
 + [Bribers, Bribers on The Chain, Is Resisting All in Vain? Trustless Consensus Manipulation Through Bribing Contracts](https://fc26.ifca.ai/preproceedings/95.pdf)
 + [Incentive-Compatible Recovery from Manipulated Signals, with Applications to Decentralized Physical Infrastructure](https://fc26.ifca.ai/preproceedings/14.pdf)
+
 ### 2025
+
 + A Formally Verified Lightning Network
 + Strengthening Multi-hop Channels via Strategic Mesh Connections
 + IvyAPC: Auditable Generalized Payment Channels
@@ -317,11 +359,15 @@
 + The Latency Price of Threshold Cryptosystem in Blockchains
 
 ## AAAI
+
 ### 2025
+
 + [SCALM: Detecting Bad Practices in Smart Contracts Through LLMs](https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181)
 
 ## AFT
+
 ### 2025
+
 + [security/privacy] Cache Timing Leakages in Zero-Knowledge Protocols
 + [security/privacy] Zero-knowledge Authenticator for Blockchain: Policy-private and Obliviously Updateable
 + [security/privacy] Fast, private and regulated payments in asynchronous networks
@@ -352,7 +398,9 @@
 + [security/privacy] On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
 
 ## ASIACCS
+
 ### 2025
+
 + [security/privacy] Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility
 + [security/privacy] An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
 + [security/privacy] BIP32-Compatible Threshold Wallets
@@ -366,20 +414,26 @@
 + [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
 
 ## ISSRE
+
 ## 2025
+
 + Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
 + Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
 + LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
 + bBench: A Comprehensive Performance Benchmark for Blockchain Applications
 
 ## CHI
+
 ### 2025
+
 + Using Affordance to Understand Usability of Web3 Social Media
 + Understanding End-User Perception of Transfer Risks in Smart Contracts
 + Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.
 
 ## ACM Computing Surveys
+
 ### 2025
+
 + [security/privacy] Blockchain Smart Contract Security: Threats and Mitigation Strategies in a Lifecycle Perspective
 + [security/privacy] Survey on Quality Assurance of Smart Contracts
 + [security/privacy] A Review on Blockchain Technology, Current Challenges, and AI-Driven Solutions
@@ -390,6 +444,7 @@
 + Performance Modeling of Public Permissionless Blockchains: A Survey
 
 ### 2024
+
 + [security/privacy] [Security Aspects of Cryptocurrency Wallets - A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3596906)
 + [security/privacy] Survey on Secure Keyword Search over Outsourced Data: From Cloud to Blockchain-assisted Architecture
 + [security/privacy] On Identity, Transaction, and Smart Contract Privacy on Permissioned and Permissionless Blockchain: A Comprehensive Survey
@@ -404,13 +459,17 @@
 + Economic Systems in the Metaverse: Basics, State of the Art, and Challenges
 
 ## IMC
+
 ### 2025
+
 + [security/privacy] Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum
 + [security/privacy] Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client
 + The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints
 
 ## ISSTA
+
 ### 2025
+
 + Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
 + [security/privacy] SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment
 + [security/privacy] Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
@@ -420,16 +479,22 @@
 + [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
 ## SANER
+
 ### 2026
+
 + Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
 
 ## ISC
+
 ### 2025
+
 + BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques
 + Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts
 
 ## INFOCOM
+
 ### 2026
+
 + MVCX: An Efficient Multi-Version-Based Concurrency Control Scheme for Cross-Chain Smart Contract Transactions
 + JiangZiya: Dependency-aware Smart Contract Migration for Scalable Sharded Blockchains
 + FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges
@@ -437,14 +502,18 @@
 + Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
 
 ## ESORICS
+
 ### 2025
+
 + Anamorphic Monero Transactions: the Threat of Bypassing Anti-Money Laundering Laws
 + Analysis of input-output mappings in coinjoin transactions with arbitrary values
 + The Economics of Deception: Structural Patterns of Rug Pull across DeFi Blockchains
 + Premining in the Shadows: How Hidden Blocks Weaken the Security of Proof-of-Work Chains
 
 ## WWW
+
 ### 2026
+
 + BIND: Enabling Continuous Transaction Processing During Account Migration in Sharded Blockchains
 + Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception
 + Alzo: Auto-Tuning with Reinforcement Learning for DAG-based Blockchains
@@ -457,7 +526,9 @@
 + Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
 
 ## SAC
+
 ### 2026
+
 + [Randomness is good enough in DAG-based Federated Learning](https://hal.science/hal-05326573v1/file/Randomness_is_good_enough_in_DAG_based_Federated_Learning__submiited_HAL.pdf)
 + FRAIN to Train: A Fast-and-Reliable  Solution for Decentralized Asynchronous Federated Learning
 + Mitigating MEV with Verifiable  Randomness: A VRF-Seeded Fair Transaction  Ordering Protocol
@@ -471,21 +542,29 @@
 + A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
 
 ## PETS
+
 ### 2026
+
 + CoinJoin ecosystem insights for Wasabi 1.x, Wasabi 2.x and Whirlpool coordinator-based privacy mixers
 + Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
 
 ## VehicleSec
+
 ### 2025
+
 + [Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain](https://www.usenix.org/system/files/vehiclesec25-khan.pdf)
 
 ## DSN
+
 ### 2025
+
 + [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 + [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## ICSE
+
 ### 2026
+
 + [Boosting Gas Revenues of Ethereum Miners](https://hal.science/hal-05458791v1/file/main.pdf)
 + EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models
 + [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://www.eecg.toronto.edu/~veneris/ICSE26.pdf)
@@ -496,235 +575,388 @@
 + GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
 
 ## TOPLAS
+
 ### 1982
+
 + [The Byzantine Generals Problem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiJ7vOHro6TAxXNnK8BHUkFKc4QFnoECAwQAQ&url=https%3A%2F%2Flamport.azurewebsites.net%2Fpubs%2Fbyz.pdf&usg=AOvVaw2TUQth8WaXRXn1bNF1AW0H&opi=89978449)
 
 ## ETC
+
 ### 2026
+
 #### Blackhat Asia
+
 + [Briefing] Fortifying the Foundation: LLM-Empowered Differential Testing for the Ethereum Infrastructure
 + [Arsenal] Bastet - AI Smart Contract Vulnerability Detector
 + [Arsenal] Mothra: Timeless debugging of EVM transactions with Ghidra
+
 ### 2022
+
 ### Victor Shoup
+
 + Proof of history: what is it good for?
+
 ### 2016
+
 #### Bitcoin Lightning Network 
+
 + The bitcoin lightning network: Scalable off-chain instant payments
+
 ### 2013
+
 #### Ethereum
+
 + Ethereum Whitepaper
+
 ### 2008
+
 #### Bitcoin
+
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 
-
+---
 
 # Threat Modeling Paper
+
 ## ESCAR Europe
+
 ### 2025
+
 + [GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/13657/Paper4.pdf)
 + [STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation](https://arxiv.org/pdf/2509.20190)
 
 ## NDSS
+
 ### 2026
+
 + [Automating Function-Level TARA for Automotive Full-Lifecycle Security](https://www.ndss-symposium.org/wp-content/uploads/2026-s1408-paper.pdf)
 
 ## ASE
+
 ### 2025
+
 + [Tool Demonstration Track] [FlowStrider: Low-friction Continuous Threat Modeling](https://elib.dlr.de/219762/1/FlowStrider_preprint.pdf)
+
 ### 2024
+
 + [Tool Demonstrations] [VulZoo: A Comprehensive Vulnerability Intelligence Dataset](https://dl.acm.org/doi/pdf/10.1145/3691620.3695345)
 
 ## SecDev
+
 ### 2024
+
 + [From automation to CI/CD: a comparative evaluation of threat modeling tools](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10734045&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwNzM0MDQ1)
+
 ### 2023
-+ [Security and Privacy Threat Analysis for Solid](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10305608&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwMzA1NjA4)
+
++ [Security and Privacy Threat Analysis for Solid](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10305608&ref=aHR0cHM6Ly9pZWVleHBsb3RlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwMzA1NjA4)
+
 ### 2022
-+ [Uncovering Product Vulnerabilities with Threat Knowledge Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9973028&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk5NzMwMjg=)
+
++ [Uncovering Product Vulnerabilities with Threat Knowledge Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9973028&ref=aHR0cHM6Ly9pZWVleHBsb3RlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk5NzMwMjg=)
+
 ### 2021
-+ [Automated Threat Analysis and Management in a Continuous Integration Pipeline](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9652652&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk2NTI2NTI=)
+
++ [Automated Threat Analysis and Management in a Continuous Integration Pipeline](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9652652&ref=aHR0cHM6Ly9pZWVleHBsb3RlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk2NTI2NTI=)
 
 ## MODELS
+
 ### 2023
+
 + [Automatic Security-Flaw Detection Replication and Comparison](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10343779&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-+ [Poster] [Model Based STPA for Assisted Driving  Functions](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10350810&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwMzUwODEw)
++ [Poster] [Model Based STPA for Assisted Driving  Functions](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10350810&ref=aHR0cHM6Ly9pZWVleHBsb3RlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwMzUwODEw)
 
 ## SANER
+
 ### 2024
+
 + [How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10589804&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## CCS
+
 ### 2022
+
 + [Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition](https://dl.acm.org/doi/pdf/10.1145/3548606.3560569)
 
 ## CODASPY
+
 ### 2025
+
 + [Research Paper] [Citar: Cyberthreat Intelligence-driven Attack Reconstruction](https://dl.acm.org/doi/pdf/10.1145/3714393.3726519)
 + [Research Paper] [TerrARA: Automated Security Threat Modeling for Infrastructure as Code](https://dl.acm.org/doi/pdf/10.1145/3714393.3726494)
 + [Dataset/Tool Paper] [Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations](https://dl.acm.org/doi/pdf/10.1145/3714393.3726005)
+
 ### 2023
+
 + [Poster] [The Design of an Ontology for ATT&CK and its Application to Cybersecurity](https://dl.acm.org/doi/pdf/10.1145/3577923.3585051)
 
 ## SpaceSec
+
 ### 2026
+
 + Towards automated threat modeling for space systems via SPARTA matrix
 
 ## UESNIX Security
+
 ### 2025
+
 + [“Threat modeling is very formal, it’s very technical, and also very hard to do correctly”: Investigating Threat Modeling Practices in Open-Source Software Projects](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-294-kaur.pdf)
+
 ### 2024
+
 + ["There are rabbit holes I want to go down that I'm not allowed to go down": An Investigation of Security Expert Threat Modeling Practices for Medical Devices](https://www.usenix.org/system/files/usenixsecurity24-thompson.pdf)
 
 ## S&P
+
 ### 2025
+
 + [SoK: A Framework and Guide for Human-Centered Threat Modeling in Security and Privacy Research](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11023352&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ### 2024
+
 + [Revisiting Automotive Attack Surfaces: a Practitioners’ Perspective](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10646688&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## DSN
+
 ### 2025
+
 + [Attack-Defense Trees with Offensive and Defensive Attributes](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068880&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ### 2023
+
 + [PASTA: Pragmatic Automated System-Theoretic Process Analysis](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10202635&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
   + 기존의 텍스트 기반 STPA 도구는 수정 사항 확인과 버전 관리에는 유리하지만, 전체적인 위협 모델링 내역을 직관적으로 파악하기 어렵다는 한계가 있었음(텍스트 기반 위협 모델링 도구는 위협 모델링 내역의 변경 발생 시 텍스트 어느 줄의 어느 부분이 바뀌었는지 직관적으로 확인 가능하나, 그림 기반 위협 모델링 도구는 픽셀 단위의 변경 정보를 제공하기 때문에 위협 모델링 변경 내역을 직관적으로 알아보기 어려움). 이를 해결하기 위해 개발된 PASTA는 텍스트 기반 모델링과 그림 기반 모델링을 융합한 'Modeling Pragmatics' 개념을 도입하여, 버전 관리는 DSL로 수행하고 결과물은 자동으로 시각화하는 방식을 취함. 특히 DSL 기반의 제어 구조를 바탕으로 가능한 모든 UCA 목록을 컨텍스트 테이블로 자동 생성하여 분석의 효율을 높음. 도구의 성능 평가는 Ludvigsen과 Souza가 정립한 STPA 도구의 필수 기능적 요구사항을 기준으로 진행되었으며, XSTAMPP와 SAHRA 등 기존 도구와 비교했을 때 PASTA가 자동 레이아웃, 시각적 추적성, 규칙 기반 유효성 검사 등 더 폭넓은 기능을 높은 수준으로 충족하고 있음을 정성적으로 입증하였음.
 
 ## SOUPS
+
 ### 2024
+
 + [Threat modeling state of practice in Dutch organizations](https://www.usenix.org/system/files/soups2024-verreydt.pdf)
 
 ## CHI
+
 ### 2023
+
 + [Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling](https://dl.acm.org/doi/pdf/10.1145/3544548.3581484)
 
 ## PETS
+
 ### 2023
+
 + [Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis](https://petsymposium.org/popets/2023/popets-2023-0046.pdf)
 
 ## SAC
+
 ### 2025
+
 + [SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs](https://dl.acm.org/doi/pdf/10.1145/3672608.3707797)
+
 ### 2023
+
 + [Expressive and Systematic Risk Assessments with Instance-Centric Threat Models](https://dl.acm.org/doi/pdf/10.1145/3555776.3577668)
+
 ### 2022
+
 + [A user-centric threat model and repository for cyber attacks](https://dl.acm.org/doi/pdf/10.1145/3477314.3507315)
 + [Mitigation lost in translation: leveraging threat information to improve privacy solution selection](https://dl.acm.org/doi/pdf/10.1145/3477314.3507107)
 
 ## CANS
+
 ### 2025
+
 + [Unveiling the critical attack path for implanting backdoors in supply chains: Practical experience from XZ](https://www.mroland.at/publications/2025-lins-cans/Lins_2025_CANS2025_XZAttackPath.pdf)
 
 ## MILCOM
+
 ### 2025
+
 + [Automating Cybersecurity Risk Assessment for AI Systems in Military & Critical Infrastructure](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310336&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ### 2024
+
 + [A game theory for resource-constrained tactical cyber operations](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10773898&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ### 2021
+
 + [Honeypot Allocation for Cyber Deception in Internet of Battlefield Things Systems](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9652927&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
   + 복잡한 네트워크 규모를 가진 IoBT 환경에서는 기존의 게임 이론적 접근 방법을 써서 게임 시뮬레이션을 돌리면 너무 시간이 오래 걸린다.
   + 노드 별 중요도를 기입하는 방법에 대한 가이드라인이 추상적으로 제시되어 있다. 논문에는 공격자의 최종 목표에 해당하는 노드의 중요도가, 그 목표에 도달하기 위해 중간에 거치는 노드들의 중요도보다 높다고만 기술되어 있다.
 
 ## VehicleSec
+
 ### 2023
+
 + [Formally Verified Software Update Management System in Automotive](https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23087-paper.pdf)
         
 ## Blackhat Europe
+
 ### 2025
+
 + [Arsenal] ThreatShield – The Intelligent Way of Threat Modelling
 + [Arsenal] [CVE2CAPEC - Convert CVEs to MITRE ATT&CK](https://github.com/Galeax/CVE2CAPEC)
 + [Briefings] The Post-NVD Era: A Call for Global CVE Decentralization
 
 ## TSE
+
 ### 2025
+
 + [Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11015512&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## ACM COMPUTING SURVEY
+
 ### 2024
+
 + [MITRE ATT&CK: State of the Art and Way Forward](https://dl.acm.org/doi/pdf/10.1145/3687300)
 
 ## ETC
+
 ### 2026
+
 #### Blackhat Asia
+
 + [Arsenal] Continuous CyberBattleSim: A More Realistic Simulation for AI-driven Attack Path Discovery
+
 #### Workshop on LLM Assisted Security and Trust Exploration (LAST-X)
+
 + [PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM](https://www.ndss-symposium.org/wp-content/uploads/lastx2026-80.pdf)
+
 ### 2025
+
 #### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+
 + [PILLAR: LINDDUN Privacy Threat Modeling Using LLMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11129583&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 #### Software and Systems Modeling 
+
 + [Run-time threat models for systematic and continuous risk assessment](https://link.springer.com/content/pdf/10.1007/s10270-024-01242-5.pdf)
+
 #### CoNEXT Workshop on Blockchain-Network Synergy
+
 + [Efficient DoS Attack Defense Strategy for Blockchain Networks Based on Bayesian Attack Graph and Stackelberg Game](https://dl.acm.org/doi/pdf/10.1145/3769698.3771228)
+
 ### 2024
+
 #### Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)
+
 + [Secmons: A security monitoring framework for iec 61850 substations based on configuration files and logs](https://research.vu.nl/ws/portalfiles/portal/367931076/SecMonS_A_Security_Monitoring_Framework_for_IEC_61850_Substations_Based_on_Configuration_Files_and_Logs.pdf)
+
 ### 2023
+
 #### CyberSecurity in a DevOps Environment
+
 + Ctam: A Tool for Continuous Threat Analysis and Management
+
 #### Conference on Game Theory and AI for Security (GameSec)
+
 + [Honeypot Allocation for Cyber Deception in Dynamic Tactical Networks: A Game Theoretic Approach](https://arxiv.org/pdf/2308.11817)
+
 #### Workshop on Automotive Cyber Security(ACSW)
+
 + [A threat model for soft privacy on smart cars](https://arxiv.org/pdf/2306.04222)
+
 ### 2022
+
 #### International Conference on Availability, Reliability and Security (ARES)
+
 + [GTM: Game Theoretic Methodology for optimal cybersecurity defending strategies and investments](https://dl.acm.org/doi/pdf/10.1145/3538969.3544431)
+
 #### IEEE Computer Society's flagship conference on Computers, Software, and Applications (COMPSAC)
+
 + [A Multi-Objective Approach for Security Hardening and Probabilistic Vulnerability Assessment on Attack Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9842592&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 #### ACSW
+
 + [A Comparative Analysis of UNECE WP.29 R155 and ISO/SAE 21434](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9799351&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ### 2020
+
 #### GameSec
+
 + [Game theory on attack graph for cyber deception](https://www.gamesec-conf.org/2020/GameSec_Proceeding_2020/Paper%20invited%202.pdf)
+
 ### 2011
+
 #### Requirements Engineering
+
 + [A privacy threat analysis framework: supporting the elicitation and fulfillment of privacy requirements](https://link.springer.com/content/pdf/10.1007/s00766-010-0115-7.pdf)
   + LINDDUN에서는 공격 시나리오를 위협 시나리오(시스템 내에 위협이 발생하는 과정)라고 표현함. 그리고 이 위협 시나리오를 표현하는 방법론 중 하나로 오용 사례(misuse case)가 있음. 오용 사례에서는 위협원(misactor)이 외부자인지 내부자인지, 또 선의의 사용자에 의하여 사고로 의해 발생 가능한 시나리오인지 악의를 가진 공격자에 의하여 발생가능한 시나리오인지 구분하도록 명시되어있음
+
 ### 1997
+
 #### IEEE Annals of the History of Computing
+
 + [Mathematics, Technology, and Trust: Formal Verification, Computer Security, and the U.S. Military](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=601735&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
+---
+
 # Automated Reapir & Patch
+
 ## ICSE
+
 ### 2026
+
 + [Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair](https://arxiv.org/pdf/2512.22633)
+
 ### 2025
+
 + [RepairAgent: An Autonomous, LLM-Based Agent for Program Repair](https://ieeexplore.ieee.org/iel8/11029684/11029718/11029914.pdf?casa_token=nc3oos91YDYAAAAA:SwbI4K9ULsG-EHdKmnXJ3yZrhA13-5fXPzwHkfAjxnbUJ50hu3zW3jj7k1S5apfxv46HzNo)
+
 ## ETC
+
 ### 2025
+
 #### International Workshop on Automated Program Repair (APR)
+
 + [Can GPT-o1 kill all bugs? an evaluation of GPT-Family LLMs on QuixBugs](https://ieeexplore.ieee.org/iel8/11029548/11029648/11029663.pdf?casa_token=DmyXBc_7sLkAAAAA:oNbEpeCrDYRlmS3ouvnkQlB4nPXqXSckbt9mmY3HivPhVWYNvfGqzbvi9m_dHv0qzsnxemw)
+
 ### 2024
+
 #### APR
+
 + [ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs](https://dl.acm.org/doi/pdf/10.1145/3643788.3648011)
 
+---
 
 # CI/CD Paper
+
 ## ISSRE
+
 ### 2025
+
 + A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs
 + SimFuzz: Conflict-Aware Parallel Fuzzing via Incremental Path Similarity Clustering
 + Refactoring ≠ Bug-Inducing: Improving Defect Prediction with Code Change Tactics Analysis
 
 ## FSE
+
 ### 2023
+
 + [HyperDiff: Computing Source Code Diffs at Scale](https://dl.acm.org/doi/pdf/10.1145/3611643.3616312)
 
 ## SANER
+
 ### 2025
+
 + [Reduce Before you Repair: Advantages of Combining Program Slicing with Automated Program Repair](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10992330&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## ASE
+
 ### 2024
+
 + [Research] Efficient Incremental Code Coverage Analysis for Regression Test Suites
 + [Research] Hybrid Regression Test Selection by Integrating File and Method Dependences
 + [Tool Demonstration] [flowR: A Static Program Slicer for R](https://dl.acm.org/doi/pdf/10.1145/3691620.3695359?download=true)
 + [Poster] [Static Dataflow Analysis of R Programs](https://zenodo.org/records/14575532/files/ase-2024-poster.pdf?download=1)
+
 ## ISSTA
+
 ### 2025
+
 + [Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation](https://dl.acm.org/doi/pdf/10.1145/3728976)
 + [What Happened in This Pipeline? Diffing Build Logs With CiDiff](https://dl.acm.org/doi/pdf/10.1145/3728966)
+
 ### 2024
+
 + [Detecting build dependency errors in incremental builds](https://dl.acm.org/doi/pdf/10.1145/3650212.3652105)
 + [C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging](https://dl.acm.org/doi/pdf/10.1145/3650212.3652129)
 + [Commit Artifact Preserving Build Prediction](https://dl.acm.org/doi/pdf/10.1145/3650212.3680356)
@@ -742,35 +974,55 @@
 + [PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software](https://dl.acm.org/doi/pdf/10.1145/3650212.3680305)
   + code diff를 보고 해당 패치가 어떤 cve 보안 취약점을 패치하기 위한것인지, 즉, 변경된 코드의 semantic 을 AI를 사용하여 식별. 반면, 우리 논문은 Semantic이 아니라 Syntatic 한 변화를 캐치하는 것이 목표이므로 해당 논문의 연구 내용을 참고할 필요는 없을 것으로 보임 
 
+---
+
 # Game Theory in Security
 
 ## ISC
+
 ### 2025
+
 + EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory
 
 ## ICASSP
+
 ### 2025
+
 + [VN-GT: Optimizing Virtual Network Deployment via Game Theory](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10888343&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## MILCOM
+
 ### 2025
+
 + [A Game-Theoretic Framework for Dynamic Decoy Placement in Cyber Networks](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310260&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
   + 본 논문은 방어자 관점에서 허니팟의 전략적 배치 문제를 다룸. 허니팟은 공격자를 기만하여 잘못된 공격을 유도함으로써 공격자의 자원을 소모시키고 공격을 지연시키는 효과가 있으며, 동시에 공격 패턴 데이터를 수집·분석하여 향후 대응 및 완화 전략을 고도화할 수 있다는 장점이 있음. 그러나 허니팟 역시 하나의 서버 또는 IT 자원으로서 구축 및 유지보수 비용이 수반되므로, 무분별한 배치가 아닌 선택과 집중에 기반한 최적화가 필요함. 이에 따라 본 연구는 조직의 제한된 자원을 전제로 최소 비용으로 최대 방어 효과를 달성할 수 있는 최적의 허니팟 배치 전략을 도출하는 문제를 정의한다. 기존의 강화학습 기반 동적 배치(공격자의 공격에 따라 허니팟의 위치를 변경함. 이와 반대되는 정적 배치 기법은, 한번 배치하면, 해당 허니팟의 위치나 상태(on/off)를 변경 불가) 기법들은 네트워크 규모와 구조가 복잡해질수록 최적 배치를 결정하는 데 과도한 시간이 소요된다는 한계를 가짐. 이를 해결하기 위해 본 논문은 사전에 정의한 게임 모델과 공격자의 행동 양식을 입력으로 하여 방어자의 최적 전략을 강화학습을 통해 학습하도록 설계하였다. 강화학습을 도입한 목적은 공격자의 움직임에 대응하여 허니팟 배치를 실시간으로 동적으로 조정하기 위함이며, 학습 과정의 효율성을 높이기 위해 프루닝(pruning)과 마스킹(masking) 기법을 적용함으로써 최적 전략 도출에 소요되는 시간을 단축하였음
+
 ### 2022
+
 + [Do you really need to disguise normal servers as honeypots?](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10017586&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
   + 허니팟 배치 전략 중 정상 서버를 허니팟으로 속이는 전략(공격자가 서버를 허니팟으로 식별하면 공격을 하지 않을 것이라는 점에 착안)이 있음. 본 논문은 방어자 입장에서 해당 전략이 더 큰 이득을 주지 못함을 수학적으로 증명함. 방어자가 정상 서버를 허니팟(가짜 서버이자 미끼)으로 위장할 수 있는 상황을 가정하여, 공격자와 방어자 간의 상호작용을 하나의 게임으로 모델링하고 이를 게임이론적으로 분석하였음. 분석 결과, 정상 서버를 허니팟으로 위장하는 전략은 해당 전략을 사용하지 않는 경우와 비교했을 때 방어자에게 더 큰 이득을 주지 못하고, 오히려 추가적인 비용만 초래하는 것으로 나타났음.
   + 본 논문의 저자는 기존의 주요 선행 연구들(예: Carroll & Grosu의 시그널링 게임 연구 등)에서 사용되었던 공격/방어 시나리오의 보상(Reward)과 비용(Cost) 체계를 그대로 가져왔음. 그리고 이를 본 저자들이 제안한 게임 모델에 대입하여 게임 이론에 입각한 시뮬레이션을 돌렸음. 그 결과 정상 서버를 허니팟 노드로 속이는 전략이 그렇지 않은 전략에 비하여 더 큰 이익을 발생시키지 않고 오히려 비용만 더 발생시킨다는 것을 보여줌.
   + 본 논문의 저자는 3가지 수준의 허니팟 도입을 제시함. 하나는 허니팟을 아예 사용하지 않는 단계. 두번쨰 단계는 허니팟(Honeypot)을 네트워크에 배치하지만, 정상 서버를 허니팟으로 위장하는 기술은 사용하지 않는 단계. 마지막 세번째 단계는 허니팟을 네트워크에 배치하고, 정상서버를 허니팟으로 위장할 수 있는 단계
 
 ## SpaceSec
+
 ### 2026
+
 + [Orbital Escalation: Modeling Satellite Ransomware Attacks Using Game Theory](https://www.ndss-symposium.org/wp-content/uploads/spacesec26-6.pdf)
   + 기존의 게임 이론 모델은 상시 교신이 가능한 지상 환경을 가정하고 있어, 위성 고유의 간헐적 통신 윈도우와 그에 따른 적은 대응 시간으로 인한 압박을 반영하지 못한다는 한계가 있음. 이러한 제약을 간과할 경우, 위성 운영자에게 현실과 동떨어진 비효율적인 대응 전략을 제시할 위험이 있음. 따라서 본 논문에서는 통신 시간 상의 물리적 제약과 '공격자의 단계별 몸값 에스컬레이션' 및 '방어자의 확률적 복구 성공 가능성'을 통합적으로 반영한 '궤도 에스컬레이션 게임(Orbital Escalation Game)' 모델을 제안함. 이를 통해 위성 운영자가 각 궤도 패스마다 기대 비용을 최소화할 수 있는 최적의 대응 시나리오를 도출함으로써, 위성 대상 랜섬웨어 위협에 특화된 정밀한 의사결정 방법론을 제시함.
 
+---
+
 # Space Security
+
 ## S&P
+
 ### 2025
+
 + [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11023466&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ## NDSS
+
 ### 2026
+
 + [HoneySat: A Network-based Satellite Honeypot Framework](https://www.ndss-symposium.org/wp-content/uploads/2026-f537-paper.pdf)
