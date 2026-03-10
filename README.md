@@ -494,6 +494,8 @@
 + [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134)
 + [Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context](https://arxiv.org/pdf/2601.21593)
 + GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
+### 2025
++ [RepairAgent: An Autonomous, LLM-Based Agent for Program Repair](https://ieeexplore.ieee.org/iel8/11029684/11029718/11029914.pdf?casa_token=nc3oos91YDYAAAAA:SwbI4K9ULsG-EHdKmnXJ3yZrhA13-5fXPzwHkfAjxnbUJ50hu3zW3jj7k1S5apfxv46HzNo)
 
 ## TOPLAS
 ### 1982
