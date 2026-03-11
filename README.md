@@ -822,7 +822,7 @@
 
 ### 2025
 
-#### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+#### International Workshop on Privacy Engineering (IWPE)
 
 + [PILLAR: LINDDUN Privacy Threat Modeling Using LLMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11129583&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
