@@ -891,6 +891,10 @@
 
 # Automated Reapir & Patch
 
+## USENIX Security
+### 2025
++ [Short Presentation] [SoK: Towards Effective Automated Vulnerability Repair](https://www.usenix.org/system/files/usenixsecurity25-li-ying.pdf)
+
 ## ICSE
 
 ### 2026
