@@ -1026,3 +1026,12 @@
 ### 2026
 
 + [HoneySat: A Network-based Satellite Honeypot Framework](https://www.ndss-symposium.org/wp-content/uploads/2026-f537-paper.pdf)
+
+---
+
+# LLM/GenAI
+## ETC
+### 2024
+#### Workshop on Knowledge-Augmented NLP KnowledgeNLP (KnowledgeNLP)
++ [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/pdf/2404.03302)
+
