@@ -1032,6 +1032,6 @@
 # LLM/GenAI
 ## ETC
 ### 2024
-#### Workshop on Knowledge-Augmented NLP KnowledgeNLP (KnowledgeNLP)
+#### Workshop on Knowledge-Augmented NLP (KnowledgeNLP)
 + [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/pdf/2404.03302)
 
