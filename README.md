@@ -1034,6 +1034,11 @@
 ---
 
 # LLM/GenAI
+## ICSE
+### 2026
++ [Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/pdf/2512.23511)
+
+
 ## ETC
 ### 2024
 #### Workshop on Knowledge-Augmented NLP (KnowledgeNLP)
