@@ -1038,4 +1038,5 @@
 ### 2024
 #### Workshop on Knowledge-Augmented NLP (KnowledgeNLP)
 + [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/pdf/2404.03302)
+  + 파라메트릭 메모리는 AI 모델이 학습 단계에서 파라미터에 내재화한 정보로, 외부 문서나 검색 시스템을 거치지 않고도 모델 스스로 즉시 활용할 수 있는 내부 지식
 
