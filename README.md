@@ -626,6 +626,11 @@
 + [GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/13657/Paper4.pdf)
 + [STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation](https://arxiv.org/pdf/2509.20190)
 
+## RAID
+
+### 2025
++ [Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces](https://hal.science/hal-05182437/file/Scalable_and_Generalizable_RL_Agents_for_Attack_Path_Discovery_via_Continuous_Invariant_Spaces.pdf)
+
 ## NDSS
 
 ### 2026
