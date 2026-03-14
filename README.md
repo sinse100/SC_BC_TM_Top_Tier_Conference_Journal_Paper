@@ -1060,6 +1060,9 @@
 ### 2026
 + [Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/pdf/2512.23511)
 
+## TSE
+### 2025
++ [LLM-Powered Static Binary Taint Analysis](https://dl.acm.org/doi/pdf/10.1145/3711816)
 
 ## ETC
 ### 2024
