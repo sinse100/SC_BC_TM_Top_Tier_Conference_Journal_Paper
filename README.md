@@ -145,6 +145,7 @@
 + Conference on Emerging Network Experiment and Technology (CoNEXT)
 + Design Automation Conference (DAC)
 + International Conference on Multimedia (MM)
++ Conference on Computer Supported Cooperative Work (CSCW)
 <!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 
 ### workshop
