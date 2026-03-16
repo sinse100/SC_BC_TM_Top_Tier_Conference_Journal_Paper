@@ -75,7 +75,7 @@
 + International Cryptology Conference (CRYPTO)
 + Annual Meeting of the Association for Computational Linguistics (ACL)
 + AAAI Conference on Artificial Intelligence (AAAI)
-+ Conference on Knowledge Discovery and Data Mining (KDD)
++ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 + International Conference on Learning Representations (ICLR)
 + International Conference on Machine Learning (ICML)
 + Conference on Neural Information Processing Systems (NeurIPS)
