@@ -1059,6 +1059,10 @@
 ---
 
 # LLM/GenAI
+## NIPS
+### 2024
++ [LLMDFA: Analyzing Dataflow in Code with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/ed9dcde1eb9c597f68c1d375bbecf3fc-Paper-Conference.pdf)
+
 ## ICSE
 ### 2026
 + [Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/pdf/2512.23511)
