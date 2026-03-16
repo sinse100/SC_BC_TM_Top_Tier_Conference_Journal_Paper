@@ -67,10 +67,10 @@
 ## Academic Conference
 
 + Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
-+ Security & Privacy (S&P)
-+ Network and Distributed System Security (NDSS) Symposium
-+ USENIX Security
-+ Conference on Computer and Communications Security (CCS)
++ IEEE Symposium on Security and Privacy (S&P)
++ Network and Distributed System Security Symposium (NDSS)
++ USENIX Security Symposium (USENIX Security)
++ ACM Conference on Computer and Communications Security (CCS)
 + International Conference on Software Engineering (ICSE)
 + International Cryptology Conference (CRYPTO)
 + Annual Meeting of the Association for Computational Linguistics (ACL)
