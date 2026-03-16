@@ -147,6 +147,7 @@
 + International Conference on Multimedia (MM)
 + Conference on Computer Supported Cooperative Work (CSCW)
 + Usenix Symposium on Operating Systems Design and Implementation (OSDI)
++ USENIX Annual Technical Conference (ATC)
 <!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 
 ### workshop
