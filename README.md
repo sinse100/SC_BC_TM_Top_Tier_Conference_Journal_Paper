@@ -632,6 +632,7 @@
 
 ### 2025
 + [Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces](https://hal.science/hal-05182437/file/Scalable_and_Generalizable_RL_Agents_for_Attack_Path_Discovery_via_Continuous_Invariant_Spaces.pdf)
++ [From Text to Actionable Intelligence: Automating STIX Entity and Relationship Extraction](https://arxiv.org/pdf/2507.16576)
 
 ## NDSS
 
