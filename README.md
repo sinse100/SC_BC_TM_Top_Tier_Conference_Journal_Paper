@@ -110,6 +110,7 @@
 + Annual Meeting of the Association for Computational Linguistics (ACL)
 + Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 + ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
++ ACM International Conference on Information and Knowledge Management (CIKM)
 + ACM CHI conference on Human Factors in Computing Systems (CHI)
 + ACM Conference on Computer Supported Cooperative Work (CSCW)
 + Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
