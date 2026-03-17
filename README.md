@@ -1070,6 +1070,7 @@
 ## ICSE
 ### 2026
 + [Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/pdf/2512.23511)
++ [RulePilot: An LLM-Powered Agent for Security Rule Generation](https://arxiv.org/pdf/2511.12224)
 
 ## TSE
 ### 2025
