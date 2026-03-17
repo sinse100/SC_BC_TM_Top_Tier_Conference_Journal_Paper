@@ -40,16 +40,16 @@
 
 # List of Top Tier Journal
 
-+ Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Information Forensics and Security (TIFS)
-+ ACM Computing Surveys
++ IEEE Transactions on Dependable and Secure Computing (TDSC)
++ Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Software Engineering (TSE)
 + Empirical Software Engineering (EMSE)
-+ IEEE Transactions on Dependable and Secure Computing (TDSC)
 + IEEE Transactions on Network Science and Engineering (TNSE)
 + IEEE Transactions on Parallel and Distributed Systems (TPDS)
-+ IEEE Transactions on Robotics (T-RO)
 + ACM Transactions on Programming Languages and Systems (TOPLAS)
++ IEEE Transactions on Robotics (T-RO)
++ ACM Computing Surveys
 
 ---
 
