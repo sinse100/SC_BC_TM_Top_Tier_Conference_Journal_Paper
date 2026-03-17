@@ -138,15 +138,15 @@
 + ACM Symposium on Operating Systems Principles (SOSP)
 + Usenix Symposium on Operating Systems Design and Implementation (OSDI)
 + International Conference on Very Large Data Bases (VLDB)
++ ACM SIGMOD International Conference on Management of Data (SIGMOD)
 + European Conference on Computer Systems (EuroSys)
 + ACM/IFIP International Middleware Conference (Middleware)
 + ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)
 + ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)
 + European Symposium on Programming (ESOP)
-+ SIGMOD Conference (SIGMOD)
 + International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH)
 + ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH Asia)
-+ Design Automation Conference (DAC)
++ ACM/IEEE Design Automation Conference (DAC)
 + USENIX Annual Technical Conference (ATC)
 <!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 
