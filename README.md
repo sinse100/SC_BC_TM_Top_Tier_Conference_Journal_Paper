@@ -860,6 +860,9 @@
 
 + [Efficient DoS Attack Defense Strategy for Blockchain Networks Based on Bayesian Attack Graph and Stackelberg Game](https://dl.acm.org/doi/pdf/10.1145/3769698.3771228)
 
+#### ACM Cloud Computing Security Workshop (CCSW)
++ [ThreatCompute: Leveraging LLMs for Automated Threat Modeling of Cloud-Native Applications](https://dl.acm.org/doi/pdf/10.1145/3733812.3765533)
+
 ### 2024
 
 #### Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)
