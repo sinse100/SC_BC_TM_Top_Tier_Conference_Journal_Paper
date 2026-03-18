@@ -635,6 +635,7 @@
 ### 2025
 + [Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces](https://hal.science/hal-05182437/file/Scalable_and_Generalizable_RL_Agents_for_Attack_Path_Discovery_via_Continuous_Invariant_Spaces.pdf)
 + [From Text to Actionable Intelligence: Automating STIX Entity and Relationship Extraction](https://arxiv.org/pdf/2507.16576)
+  + 자연어로 작성된 위협 분석 보고서로부터 STIX 기반 데이터를 수동으로 생성하는 경우, 상당한 시간이 소요될 뿐만 아니라 STIX 필드에 대한 이해와 보안 및 시스템 도메인에 대한 전문적인 배경지식이 요구된다. 이를 해결하기 위해 자연어가 아닌 보다 구조화된 형식의 데이터를 활용하는 방법을 고려할 수 있으나, 이러한 데이터는 STIX의 각 필드에 대응되는 충분한 정보를 제공하지 못하는 한계가 있다. 따라서 공개된 데이터 중 가장 풍부한 정보를 포함하고 있는 위협 분석 보고서를 기반으로 STIX 데이터를 생성하는 것이 일반적이다.
 
 ## NDSS
 
