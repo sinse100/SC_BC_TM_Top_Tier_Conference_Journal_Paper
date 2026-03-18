@@ -1074,9 +1074,14 @@
 + [Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/pdf/2512.23511)
 + [RulePilot: An LLM-Powered Agent for Security Rule Generation](https://arxiv.org/pdf/2511.12224)
 
+## NeurIPS
+### 2020
++ [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+
 ## TSE
 ### 2025
 + [LLM-Powered Static Binary Taint Analysis](https://dl.acm.org/doi/pdf/10.1145/3711816)
+  
 
 ## ETC
 ### 2024
