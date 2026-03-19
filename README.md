@@ -820,7 +820,7 @@
 
 ### 2025
 
-+ [Arsenal] ThreatShield – The Intelligent Way of Threat Modelling
++ [Arsenal] [ThreatShield – The Intelligent Way of Threat Modelling](https://github.com/threatshield/threatshield)
 + [Arsenal] [CVE2CAPEC - Convert CVEs to MITRE ATT&CK](https://github.com/Galeax/CVE2CAPEC)
 + [Briefings] The Post-NVD Era: A Call for Global CVE Decentralization
 
