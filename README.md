@@ -1078,6 +1078,10 @@
 ### 2020
 + [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 
+## ICLR
+### 2022
++ [Poster] [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/pdf?id=nZeVKeeFYf9)
+
 ## TSE
 ### 2025
 + [LLM-Powered Static Binary Taint Analysis](https://dl.acm.org/doi/pdf/10.1145/3711816)
