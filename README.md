@@ -113,7 +113,7 @@
 + ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 + ACM International Conference on Information and Knowledge Management (CIKM)
 + ACM CHI conference on Human Factors in Computing Systems (CHI)
-+ ACM Conference on Computer Supported Cooperative Work (CSCW)
++ ACM Symposium on User Interface Software and Technology (UIST)
 + Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
 + IEEE Military Communications Conference (MILCOM)
 + IEEE International Conference on Computer Communications (INFOCOM)
