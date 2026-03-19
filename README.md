@@ -107,6 +107,7 @@
 + International Conference on Learning Representations (ICLR)
 + International Conference on Machine Learning (ICML)
 + Annual Conference on Neural Information Processing Systems (NeurIPS)
++ Conference on Empirical Methods in Natural Language Processing (EMNLP)
 + Annual Meeting of the Association for Computational Linguistics (ACL)
 + Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 + ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
@@ -1077,6 +1078,10 @@
 ## NeurIPS
 ### 2020
 + [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+
+## EMNLP
+### 2025
++ [Findings] [Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.67.pdf)
 
 ## ICLR
 ### 2022
