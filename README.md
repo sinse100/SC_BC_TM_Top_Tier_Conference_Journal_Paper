@@ -872,6 +872,10 @@
 
 + [Secmons: A security monitoring framework for iec 61850 substations based on configuration files and logs](https://research.vu.nl/ws/portalfiles/portal/367931076/SecMonS_A_Security_Monitoring_Framework_for_IEC_61850_Substations_Based_on_Configuration_Files_and_Logs.pdf)
 
+#### Workshop on Artificial Intelligence System with Confidential Computing (AISCC)
++ [Facilitating Threat Modeling by Leveraging Large Language Models](https://www.ndss-symposium.org/wp-content/uploads/aiscc2024-16-paper.pdf)
+  + 최초의 LLM 기반 위협 모델링 자동화 도구
+
 ### 2023
 
 #### CyberSecurity in a DevOps Environment
