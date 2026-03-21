@@ -136,6 +136,7 @@
 + ACM International Conference on Multimedia (MM)
 + IEEE Symposium on Foundations of Computer Science (FOCS)
 + ACM-SIAM Symposium on Discrete Algorithms (SODA)
++ ACM Symposium on Theory of Computing (STOC)
 + ACM Conference on Economics and Computation (EC)
 + ACM Symposium on Operating Systems Principles (SOSP)
 + Usenix Symposium on Operating Systems Design and Implementation (OSDI)
