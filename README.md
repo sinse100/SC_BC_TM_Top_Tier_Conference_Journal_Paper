@@ -1105,6 +1105,9 @@
   
 
 ## ETC
+### 2026
+### International Workshop on Large Language Models for Code (LLM4Code)
++ [Code vs Serialized AST Inputs for LLM-Based Code Summarization: An Empirical Study](https://arxiv.org/pdf/2602.06671)
 ### 2024
 #### Workshop on Knowledge-Augmented NLP (KnowledgeNLP)
 + [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/pdf/2404.03302)
