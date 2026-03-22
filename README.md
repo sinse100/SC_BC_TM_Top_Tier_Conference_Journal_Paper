@@ -1078,10 +1078,6 @@
 ### 2024
 + [Poster] [LLMDFA: Analyzing Dataflow in Code with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/ed9dcde1eb9c597f68c1d375bbecf3fc-Paper-Conference.pdf)
 
-## EMNLP
-### 2025
-+ [Main Conference Papers] [Retrieval-Augmented Generation with Estimation of Source Reliability](https://aclanthology.org/2025.emnlp-main.1738.pdf)
-
 ## ICSE
 ### 2026
 + [Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/pdf/2512.23511)
@@ -1097,6 +1093,7 @@
 
 ## EMNLP
 ### 2025
++ [Main Conference Papers] [Retrieval-Augmented Generation with Estimation of Source Reliability](https://aclanthology.org/2025.emnlp-main.1738.pdf)
 + [Findings] [Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.67.pdf)
 
 ## ICLR
