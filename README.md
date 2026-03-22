@@ -1078,6 +1078,10 @@
 ### 2024
 + [Poster] [LLMDFA: Analyzing Dataflow in Code with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/ed9dcde1eb9c597f68c1d375bbecf3fc-Paper-Conference.pdf)
 
+## EMNLP
+### 2025
++ [Main Conference Papers] [Retrieval-Augmented Generation with Estimation of Source Reliability](https://aclanthology.org/2025.emnlp-main.1738.pdf)
+
 ## ICSE
 ### 2026
 + [Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/pdf/2512.23511)
@@ -1114,5 +1118,4 @@
   + 파라메트릭 메모리는 AI 모델이 학습 단계에서 파라미터에 내재화한 정보로, 외부 문서나 검색 시스템을 거치지 않고도 모델 스스로 즉시 활용할 수 있는 내부 지식
 
 <!-- AI는 규칙을 자유롭게 조합하거나, 학습된 데이터의 패턴을 기반으로 입력으로부터 새로운 정보를 도출하고, 이 정보를 기반으로 예측, 생성, 추천 등의 복잡한 의사결정을 하는 시스템이다 -->
-<!-- Retrieval-Augmented Generation with Estimation of Source Reliability (EMNLP) -->
 
