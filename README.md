@@ -88,7 +88,7 @@
 + Digital Forensics Research Conference (DFRWS)
 + Annual Privacy Enhancing Technologies Symposium (PETS)
 + Symposium On Usable Privacy and Security (SOUPS)
-+ IEEE Secure Development Conference (SecDev)
++ ACM Secure Development Conference (SecDev, previously known as IEEE Secure Development Conference)
 + International Common Criteria Conference (ICCC)
 + International Symposium on Formal Methods (FM)
 + NASA Formal Methods Symposium (NFM)
