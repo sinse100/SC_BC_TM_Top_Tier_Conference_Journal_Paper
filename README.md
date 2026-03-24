@@ -140,6 +140,7 @@
 + ACM Conference on Economics and Computation (EC)
 + ACM Symposium on Operating Systems Principles (SOSP)
 + Usenix Symposium on Operating Systems Design and Implementation (OSDI)
++ ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
 + International Conference on Very Large Data Bases (VLDB)
 + ACM SIGMOD International Conference on Management of Data (SIGMOD)
 + European Conference on Computer Systems (EuroSys)
