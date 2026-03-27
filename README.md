@@ -147,6 +147,7 @@
 + European Conference on Computer Systems (EuroSys)
 + ACM/IFIP International Middleware Conference (Middleware)
 + ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)
++ ACM SIGPLAN Symposium on Principles of Programming Languages (POPL)
 + ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)
 + European Symposium on Programming (ESOP)
 + International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH)
