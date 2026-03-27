@@ -95,6 +95,7 @@
 + International Conference on Computer-Aided Verification (CAV)
 + International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)
 + ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
++ IEEE International Conference on Software Testing, Verification and Validation (ICST)
 + International Static Analysis Symposium (SAS)
 + IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
 + IEEE International Requirements Engineering Conference (RE)
