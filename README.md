@@ -1132,5 +1132,5 @@
 ### 2025
 #### Automated Software Engineering
 + [Exploring the potential of general purpose LLMs in automated software refactoring: an empirical study](https://link.springer.com/content/pdf/10.1007/s10515-025-00500-0.pdf)
-####
+#### ACM Transactions on Design Automation of Electronic Systems
 + [HLSRewriter: Efficient Refactoring and Optimization of C/C++ Code with LLMs for High-Level Synthesis](https://dl.acm.org/doi/pdf/10.1145/3749986)
