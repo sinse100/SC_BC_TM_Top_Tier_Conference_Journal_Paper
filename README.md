@@ -1121,3 +1121,16 @@
 
 <!-- AI는 규칙을 자유롭게 조합하거나, 학습된 데이터의 패턴을 기반으로 입력으로부터 새로운 정보를 도출하고, 이 정보를 기반으로 예측, 생성, 추천 등의 복잡한 의사결정을 하는 시스템이다 -->
 
+---
+
+# Software Refactoring
+
+## ETC
+### 2026
+#### arXiv
++ [CodeTaste: Can LLMs Generate Human-Level Code Refactorings?](https://arxiv.org/pdf/2603.04177)
+### 2025
+#### Automated Software Engineering
++ [Exploring the potential of general purpose LLMs in automated software refactoring: an empirical study](https://link.springer.com/content/pdf/10.1007/s10515-025-00500-0.pdf)
+####
++ [HLSRewriter: Efficient Refactoring and Optimization of C/C++ Code with LLMs for High-Level Synthesis](https://dl.acm.org/doi/pdf/10.1145/3749986)
