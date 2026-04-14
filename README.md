@@ -314,13 +314,6 @@
 + Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
 + ScaleCirc: Scaling the Analysis over Circom Circuits
 
-## FSE
-
-### 2025
-
-+ [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
-  + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
-
 ## FC
 
 ### 2026
@@ -383,6 +376,11 @@
 + Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
 + V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
 + Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
+
+### 2025
+
++ [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
+  + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
 
 ## AAAI
 
