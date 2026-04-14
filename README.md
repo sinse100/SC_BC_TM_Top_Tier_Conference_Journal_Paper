@@ -614,7 +614,7 @@
 + [Arsenal] Bastet - AI Smart Contract Vulnerability Detector
 + [Arsenal] Mothra: Timeless debugging of EVM transactions with Ghidra
 
-### International Conference on Rigorous State Based Methods (ABZ)
+#### International Conference on Rigorous State Based Methods (ABZ)
 
 + Formal Verification of Decentralized Autonomous Organizations
 
