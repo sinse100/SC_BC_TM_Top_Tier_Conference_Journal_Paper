@@ -365,7 +365,7 @@
 
 ## FSE
 
-###2026
+### 2026
 
 + Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing
 + ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
