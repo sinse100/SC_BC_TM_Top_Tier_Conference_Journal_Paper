@@ -370,6 +370,20 @@
 + Short Paper: Rewardable Naysayer Proofs
 + The Latency Price of Threshold Cryptosystem in Blockchains
 
+## FSE
+
+###2026
+
++ Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing
++ ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
++ Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration
++ SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts
++ SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning
++ Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model
++ Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
++ V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
++ Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
+
 ## AAAI
 
 ### 2025
