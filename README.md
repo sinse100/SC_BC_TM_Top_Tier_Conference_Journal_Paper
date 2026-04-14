@@ -650,7 +650,7 @@
 
 ### 2025
 
-+ [GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/13657/Paper4.pdf)
++ <span style="background-color: yellow;">[GenAI Meets Risk Assessment: Evaluating ChatGPT for Threat Modeling and Attack Feasibility in Real-World Industrial Domains](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/13657/Paper4.pdf)</span>
 + [STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation](https://arxiv.org/pdf/2509.20190)
 
 ## RAID
