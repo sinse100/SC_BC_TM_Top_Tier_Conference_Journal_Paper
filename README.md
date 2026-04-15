@@ -288,6 +288,34 @@
 + State Machine Replication Among Strangers, Fast and Self-Sufficient
 + High-Throughput Permissionless Blockchain Consensus under Realistic Network Assumptions
 
+## FSE
+
+### 2026
+
++ Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing
++ ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
++ Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration
++ SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts
++ SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning
++ Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model
++ Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
++ V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
++ Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
++ Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis
++ SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization
++ WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions
+
+### 2025
+
++ [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
+  + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
+
+## SANER
+
+### 2026
+
++ Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
+
 ## ASE
 
 ### 2025
@@ -313,6 +341,40 @@
 + FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization
 + Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
 + ScaleCirc: Scaling the Analysis over Circom Circuits
+
+## ICSE
+
+### 2026
+
++ [Boosting Gas Revenues of Ethereum Miners](https://hal.science/hal-05458791v1/file/main.pdf)
++ EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models
++ [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://www.eecg.toronto.edu/~veneris/ICSE26.pdf)
++ [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction](https://arxiv.org/pdf/2506.18795)
++ [Precise Static Identification of Ethereum Storage Variables](https://arxiv.org/pdf/2503.20690)
++ [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134)
++ [Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context](https://arxiv.org/pdf/2601.21593)
++ GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
+
+## ISSTA
+
+### 2025
+
++ Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
++ [security/privacy] SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment
++ [security/privacy] Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
++ [security/privacy] OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine
++ [security/privacy] Enhancing Smart Contract Security Analysis with Execution Property Graphs
++ [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
++ [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
+
+## ISSRE
+
+## 2025
+
++ Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
++ Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
++ LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
++ bBench: A Comprehensive Performance Benchmark for Blockchain Applications
 
 ## FC
 
@@ -362,28 +424,6 @@
 + A theoretical basis for MEV
 + Short Paper: Rewardable Naysayer Proofs
 + The Latency Price of Threshold Cryptosystem in Blockchains
-
-## FSE
-
-### 2026
-
-+ Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing
-+ ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
-+ Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration
-+ SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts
-+ SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning
-+ Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model
-+ Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
-+ V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
-+ Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
-+ Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis
-+ SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization
-+ WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions
-
-### 2025
-
-+ [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
-  + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
 
 ## AAAI
 
@@ -440,15 +480,6 @@
 + [security/privacy] FIRST: FrontrunnIng Resistant Smart ConTracts
 + [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
 
-## ISSRE
-
-## 2025
-
-+ Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
-+ Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
-+ LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
-+ bBench: A Comprehensive Performance Benchmark for Blockchain Applications
-
 ## CHI
 
 ### 2025
@@ -492,24 +523,6 @@
 + [security/privacy] Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum
 + [security/privacy] Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client
 + The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints
-
-## ISSTA
-
-### 2025
-
-+ Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
-+ [security/privacy] SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment
-+ [security/privacy] Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
-+ [security/privacy] OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine
-+ [security/privacy] Enhancing Smart Contract Security Analysis with Execution Property Graphs
-+ [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
-+ [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
-
-## SANER
-
-### 2026
-
-+ Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
 
 ## ISC
 
@@ -587,19 +600,6 @@
 
 + [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 + [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-
-## ICSE
-
-### 2026
-
-+ [Boosting Gas Revenues of Ethereum Miners](https://hal.science/hal-05458791v1/file/main.pdf)
-+ EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models
-+ [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://www.eecg.toronto.edu/~veneris/ICSE26.pdf)
-+ [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction](https://arxiv.org/pdf/2506.18795)
-+ [Precise Static Identification of Ethereum Storage Variables](https://arxiv.org/pdf/2503.20690)
-+ [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134)
-+ [Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context](https://arxiv.org/pdf/2601.21593)
-+ GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
 
 ## TOPLAS
 
