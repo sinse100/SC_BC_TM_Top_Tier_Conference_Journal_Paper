@@ -317,6 +317,14 @@
 
 + No Fish Is Too Big for Flash Boys! Frontrunning on DAG-based Blockchains
 
+## CODASPY
+
+### 2025
+
++ Protecting DeFi Platforms against Non-Price Flash Loan Attacks
++ Proof of Compliance (PoC): A Consensus Mechanism to Verify Policy Compliance
++ [Dataset/Tool Paper] SolRPDS: A Dataset for Analyzing Rug Pulls in Solana Decentralized Finance
+
 ## CRYPTO
 
 ### 2025
