@@ -377,6 +377,7 @@
 + V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
 + Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
 + Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis
++ SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization
 
 ### 2025
 
