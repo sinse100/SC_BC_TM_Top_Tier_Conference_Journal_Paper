@@ -325,6 +325,22 @@
 + Proof of Compliance (PoC): A Consensus Mechanism to Verify Policy Compliance
 + [Dataset/Tool Paper] SolRPDS: A Dataset for Analyzing Rug Pulls in Solana Decentralized Finance
 
+## CSF
+
+### 2025
+
++ Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems
++ BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies
++ Verifiable E-Voting with a Trustless Bulletin Board
++ VRaaS: Verifiable Randomness as a Service on Blockchains
+
+## ISC
+
+### 2025
+
++ BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques
++ Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts
+
 ## CRYPTO
 
 ### 2025
@@ -559,13 +575,6 @@
 + [security/privacy] Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum
 + [security/privacy] Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client
 + The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints
-
-## ISC
-
-### 2025
-
-+ BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques
-+ Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts
 
 ## INFOCOM
 
