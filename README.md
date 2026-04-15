@@ -350,6 +350,23 @@
 + State Machine Replication Among Strangers, Fast and Self-Sufficient
 + High-Throughput Permissionless Blockchain Consensus under Realistic Network Assumptions
 
+## CANS
+
+### 2025
+
++ Decentralized Fair Exchange with Advertising
+
+## ACNS
+
+### 2025
+
++ HCC: A Language-Independent Hardening Contract Compiler for Smart Contracts
++ Double Auction Meets Blockchain: Consensus from Scored Bid-Assignment
++ Algebraic Zero Knowledge Contingent Payment
++ SoK: Measuring Blockchain Decentralization
++ Automated Selfish Mining Analysis for DAG-Based PoW Consensus Protocols
++ Sassafras: Efficient Batch Single Leader Election
+
 ## FSE
 
 ### 2026
