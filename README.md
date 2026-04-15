@@ -177,6 +177,10 @@
 + Mechanized Safety and Liveness Proofs for the Mysticeti Consensus Protocol under the LiDO-DAG Framework
 + Scalable Accountable Byzantine Agreement and Beyond
 + Coral: Fast Succinct Non-Interactive Zero-Knowledge CFG Proofs
++ Prrr: Personal Random Rewards for Blockchain Reporting
++ Weighted Batched Threshold Encryption with Applications to Mempool Privacy
++ MAD-DAG: Protecting Blockchain Consensus from MEV
++ A Liveness Attack to Ethereum PoS with No Additional Cost 
 
 ### 2025
 
