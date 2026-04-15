@@ -168,6 +168,40 @@
 
 # Blockchain & Smart Contract Paper
 
+## S&P
+
+### 2026
+
++ Jigsaw: Doubly Private Smart Contracts
++ Fast Deterministically Safe Proof-of-Work Consensus
++ Mechanized Safety and Liveness Proofs for the Mysticeti Consensus Protocol under the LiDO-DAG Framework
++ Scalable Accountable Byzantine Agreement and Beyond
++ Coral: Fast Succinct Non-Interactive Zero-Knowledge CFG Proofs
+
+### 2025
+
++ Constant latency and finality for dynamically available DAG
++ Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
++ [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11023254&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
++ Warning! The Timeout T Cannot Protect You From Losing Coins, PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
++ Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More
++ Decentralization of Ethereum's Builder Market
++ Vitārit: Paying for Threshold Services on Bitcoin and Friends
++ Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains
++ Peer2PIR: Private Queries for IPFS
++ An Attack on TON’s ADNL Secure Channel Protocol
++ Liquefaction: Privately Liquefying Blockchain Assets
++ Sailfish: Towards Improving the Latency of DAG-based BFT
++ Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES
++ P2C2T: Preserving the Privacy of Cross-Chain Transfer
++ Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
++ TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
++ Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
+
+### 2020
+
++ [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ## NDSS
 
 ### 2026
@@ -244,40 +278,6 @@
 + Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience
 + Accountable Liveness
 + KZH-Fold: Accountable Voting from Sublinear Accumulation
-
-## S&P
-
-### 2026
-
-+ Jigsaw: Doubly Private Smart Contracts
-+ Fast Deterministically Safe Proof-of-Work Consensus
-+ Mechanized Safety and Liveness Proofs for the Mysticeti Consensus Protocol under the LiDO-DAG Framework
-+ Scalable Accountable Byzantine Agreement and Beyond
-+ Coral: Fast Succinct Non-Interactive Zero-Knowledge CFG Proofs
-
-### 2025
-
-+ Constant latency and finality for dynamically available DAG
-+ Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
-+ [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11023254&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-+ Warning! The Timeout T Cannot Protect You From Losing Coins, PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
-+ Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More
-+ Decentralization of Ethereum's Builder Market
-+ Vitārit: Paying for Threshold Services on Bitcoin and Friends
-+ Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains
-+ Peer2PIR: Private Queries for IPFS
-+ An Attack on TON’s ADNL Secure Channel Protocol
-+ Liquefaction: Privately Liquefying Blockchain Assets
-+ Sailfish: Towards Improving the Latency of DAG-based BFT
-+ Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES
-+ P2C2T: Preserving the Privacy of Cross-Chain Transfer
-+ Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
-+ TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
-+ Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
-
-### 2020
-
-+ [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## CRYPTO
 
