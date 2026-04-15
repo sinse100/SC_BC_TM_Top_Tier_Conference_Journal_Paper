@@ -202,6 +202,15 @@
 
 + [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
+## EuroS&P
+
+### 2025
+
++ Best-Possible Unpredictable Proof-of-Stake: An Impossibility and a Practical Design
++ Commitment Attacks on Ethereum’s Reward Mechanism
++ A Formal Security Analysis of Hyperledger AnonCreds
++ Cybersquatting in Web3: The Case of NFT
+
 ## NDSS
 
 ### 2026
@@ -278,6 +287,35 @@
 + Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience
 + Accountable Liveness
 + KZH-Fold: Accountable Voting from Sublinear Accumulation
+
+## Asia CCS
+
+### 2025
+
++ [security/privacy] Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility
++ [security/privacy] An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
++ [security/privacy] BIP32-Compatible Threshold Wallets
++ [security/privacy] VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More
++ [security/privacy] DTL: Data Tumbling Layer A Composable Unlinkability for Smart Contracts
++ [security/privacy] Pace: Privacy-preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges
++ [security/privacy] BRC20 Snipping Attack
++ [security/privacy] poqeth: Efficient, post-quantum signature verification on Ethereum
++ [security/privacy] Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas
++ [security/privacy] FIRST: FrontrunnIng Resistant Smart ConTracts
++ [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
+
+## DSN
+
+### 2025
+
++ [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
++ [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
+## ACSAC
+
+### 2025
+
++ No Fish Is Too Big for Flash Boys! Frontrunning on DAG-based Blockchains
 
 ## CRYPTO
 
@@ -470,22 +508,6 @@
 + [security/privacy] pvpAMM: A perpetual market for unbalanced long-short positions
 + [security/privacy] On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
 
-## ASIACCS
-
-### 2025
-
-+ [security/privacy] Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility
-+ [security/privacy] An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
-+ [security/privacy] BIP32-Compatible Threshold Wallets
-+ [security/privacy] VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More
-+ [security/privacy] DTL: Data Tumbling Layer A Composable Unlinkability for Smart Contracts
-+ [security/privacy] Pace: Privacy-preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges
-+ [security/privacy] BRC20 Snipping Attack
-+ [security/privacy] poqeth: Efficient, post-quantum signature verification on Ethereum
-+ [security/privacy] Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas
-+ [security/privacy] FIRST: FrontrunnIng Resistant Smart ConTracts
-+ [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
-
 ## CHI
 
 ### 2025
@@ -599,13 +621,6 @@
 ### 2025
 
 + [Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain](https://www.usenix.org/system/files/vehiclesec25-khan.pdf)
-
-## DSN
-
-### 2025
-
-+ [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-+ [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068830&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## TOPLAS
 
