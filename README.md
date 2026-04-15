@@ -369,12 +369,18 @@
 
 ## ISSRE
 
-## 2025
+### 2025
 
 + Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
 + Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
 + LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
 + bBench: A Comprehensive Performance Benchmark for Blockchain Applications
+
+## MODELS
+
+### 2025
+
++ [Modal Abstractions for Smart Contract Validation](https://www.iog.io/api/research/pdf/5HUGIWJ5)
 
 ## FC
 
