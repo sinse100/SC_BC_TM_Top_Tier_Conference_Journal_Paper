@@ -464,6 +464,11 @@
 ### 2025
 
 + [Modal Abstractions for Smart Contract Validation](https://www.iog.io/api/research/pdf/5HUGIWJ5)
+  + MODELS 2022 년의 'Predicate abstractions for smart contract validation' 논문의 후속 연구 논문
+
+### 2022
+
++ [Predicate abstractions for smart contract validation](https://dl.acm.org/doi/pdf/10.1145/3550355.3552462)
 
 ## FC
 
