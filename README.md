@@ -376,6 +376,7 @@
 + Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
 + V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
 + Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
++ Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis
 
 ### 2025
 
