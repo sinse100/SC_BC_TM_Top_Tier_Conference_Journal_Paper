@@ -1224,3 +1224,14 @@
 ---
 
 # From Source Code to Doucumentation/Architecture
+
+## SANER
+
+### 2026
++ [Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View](https://mugdhak30.github.io/assets/Preprints/RoPA_SANER2026.pdf)
++ Beyond Lexical: Functional Semantics and Fusion for Precise Architecture Recovery
+
+## FSE
+
+### 2023
++ [Software Architecture Recovery with Information Fusion](https://dl.acm.org/doi/pdf/10.1145/3611643.3616285)
