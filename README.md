@@ -1233,5 +1233,8 @@
 
 ## FSE
 
+### 2026
++ GAER: Graph Auto-Encoders for Unsupervised Software Architecture Recovery
+
 ### 2023
 + [Software Architecture Recovery with Information Fusion](https://dl.acm.org/doi/pdf/10.1145/3611643.3616285)
