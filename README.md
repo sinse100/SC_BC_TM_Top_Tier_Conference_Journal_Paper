@@ -826,6 +826,9 @@
 
 ## S&P
 
+### 2026
++ Human-Centered Threat Modeling in Practice: Lessons, Challenges, and Paths Forward 
+
 ### 2025
 
 + [SoK: A Framework and Guide for Human-Centered Threat Modeling in Security and Privacy Research](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11023352&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
