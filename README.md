@@ -1233,7 +1233,7 @@
 
 ### 2025
 + [MDRE-LLM: A Tool for Analyzing and Applying LLMs in Software Reverse Engineering](https://figshare.le.ac.uk/articles/journal_contribution/MDRE-LLM_A_Tool_for_Analyzing_and_Applying_LLMs_in_Software_Reverse_Engineering/28184441/1/files/51598856.pdf)
-
+  <!-- 본 논문에서는 할루시네이션 문제를 완화하기 위해 RAG를 도입한 LLM 기반 MDRE를 제안하며, 해당 MDRE는 Java 소스코드를 대상으로 동작한다. 또한 본 논문에서 제안된 MDRE는 최종적으로 UML 형태의 도메인 모델을 출력한다. -->
 ## FSE
 
 ### 2026
