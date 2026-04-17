@@ -1231,6 +1231,9 @@
 + [Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View](https://mugdhak30.github.io/assets/Preprints/RoPA_SANER2026.pdf)
 + Beyond Lexical: Functional Semantics and Fusion for Precise Architecture Recovery
 
+### 2025
++ [MDRE-LLM: A Tool for Analyzing and Applying LLMs in Software Reverse Engineering](https://figshare.le.ac.uk/articles/journal_contribution/MDRE-LLM_A_Tool_for_Analyzing_and_Applying_LLMs_in_Software_Reverse_Engineering/28184441/1/files/51598856.pdf)
+
 ## FSE
 
 ### 2026
