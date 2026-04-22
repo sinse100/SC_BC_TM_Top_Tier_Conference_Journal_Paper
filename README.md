@@ -393,6 +393,10 @@
 + [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
   + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
 
+### 2021
+
++ ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications
+
 ## SANER
 
 ### 2026
@@ -1225,6 +1229,16 @@
 
 # From Source Code to Doucumentation/Architecture
 
+## ICSE
+
+### 2026
++ Semantic-Enhanced Automatic Refinement of Architecture Recovery Results Using LLMs
+
+## SAC
+
+### 2024
++ Software Architecture Recovery from Multiple Dependency Models
+
 ## SANER
 
 ### 2026
@@ -1234,10 +1248,12 @@
 ### 2025
 + [MDRE-LLM: A Tool for Analyzing and Applying LLMs in Software Reverse Engineering](https://figshare.le.ac.uk/articles/journal_contribution/MDRE-LLM_A_Tool_for_Analyzing_and_Applying_LLMs_in_Software_Reverse_Engineering/28184441/1/files/51598856.pdf)
   <!-- 본 논문에서는 할루시네이션 문제를 완화하기 위해 RAG를 도입한 LLM 기반 MDRE를 제안하며, 해당 MDRE는 Java 소스코드를 대상으로 동작한다. 또한 본 논문에서 제안된 MDRE는 최종적으로 UML 형태의 도메인 모델을 출력한다. -->
+  
 ## FSE
 
 ### 2026
 + GAER: Graph Auto-Encoders for Unsupervised Software Architecture Recovery
++ [Industry Paper] Evaluating Explanatory Artefacts of DSAR-Recovered Software Architectures from Industrial Codebases
 
 ### 2023
 + [Software Architecture Recovery with Information Fusion](https://dl.acm.org/doi/pdf/10.1145/3611643.3616285)
