@@ -250,6 +250,14 @@
 
 ## USENIX Security
 
+### 2026
+
++ [Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_shao.pdf)
++ [Bridging Bitcoin to Second Layers via BitVM2](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_woll.pdf)
++ [Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_huang-mingyuan.pdf)
++ [Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_liu-yizhong.pdf)
++ [A Midsummer Meme's Dream: Investigating Market Manipulations in the Meme Coin Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_mongardini.pdf)
+
 ### 2025
 
 + Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer
