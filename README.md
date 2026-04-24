@@ -449,6 +449,7 @@
 + [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134)
 + [Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context](https://arxiv.org/pdf/2601.21593)
 + GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
++ [Poster] RAGas: Retrieval Augmented Gas Optimization for Smart Contracts with Continuous Knowledge Integration
 
 ## ISSTA
 
@@ -1241,6 +1242,7 @@
 
 ### 2026
 + Semantic-Enhanced Automatic Refinement of Architecture Recovery Results Using LLMs
++ [Demonstration] ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis
 
 ## SAC
 
