@@ -1243,6 +1243,11 @@
 ### 2026
 + Semantic-Enhanced Automatic Refinement of Architecture Recovery Results Using LLMs
 + [Demonstration] ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis
+  
+### 2025
++ An LLM-Based Agent-Oriented Approach for Automated Code Design Issue Localization
++ Datalog-Based Language-Agnostic Change Impact Analysis for Microservices
++ [Demonstrations] SIT: An accurate, compliant SBOM generator with incremental construction
 
 ## SAC
 
