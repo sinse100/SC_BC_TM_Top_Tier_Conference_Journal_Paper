@@ -680,7 +680,7 @@
 ## TOSEM
 
 ### 2025
-+ No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis
++ [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://dl.acm.org/doi/pdf/10.1145/3795692)
 
 ## VehicleSec
 
