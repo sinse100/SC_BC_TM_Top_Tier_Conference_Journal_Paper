@@ -44,6 +44,7 @@
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
 + Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Software Engineering (TSE)
++ ACM Transactions on Software Engineering and Methodology (TOSEM)
 + Empirical Software Engineering (EMSE)
 + IEEE Transactions on Network Science and Engineering (TNSE)
 + IEEE Transactions on Parallel and Distributed Systems (TPDS)
