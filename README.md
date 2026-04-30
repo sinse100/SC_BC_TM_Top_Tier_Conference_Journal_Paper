@@ -677,6 +677,11 @@
 + CoinJoin ecosystem insights for Wasabi 1.x, Wasabi 2.x and Whirlpool coordinator-based privacy mixers
 + Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
 
+## TOSEM
+
+### 2025
++ No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis
+
 ## VehicleSec
 
 ### 2025
