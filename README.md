@@ -208,6 +208,10 @@
 
 ## EuroS&P
 
+### 2026
++ Practical Attacks on Session Messenger and Oxen Blockchain
++ Decentralized Reliability Estimation for Low Latency Mixnets
+
 ### 2025
 
 + Best-Possible Unpredictable Proof-of-Stake: An Impossibility and a Practical Design
