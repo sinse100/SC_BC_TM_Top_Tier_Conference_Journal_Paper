@@ -913,7 +913,7 @@
 ## MILCOM
 
 ### 2025
-
++ GNN-Based Predictive Model for Adversarial Cyber Behavior Using the MITRE ATT&CK
 + [Automating Cybersecurity Risk Assessment for AI Systems in Military & Critical Infrastructure](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310336&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ### 2024
