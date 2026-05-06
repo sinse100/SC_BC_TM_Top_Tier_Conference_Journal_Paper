@@ -1113,6 +1113,11 @@
 + [Tool Demonstration] [flowR: A Static Program Slicer for R](https://dl.acm.org/doi/pdf/10.1145/3691620.3695359?download=true)
 + [Poster] [Static Dataflow Analysis of R Programs](https://zenodo.org/records/14575532/files/ase-2024-poster.pdf?download=1)
 
+## OOPSLA
+
+### 2026
++ [Mechanically Translating Iterative Dataflow Analysis to Algebraic Program Analysis](https://dl.acm.org/doi/pdf/10.1145/3798216)
+
 ## ISSTA
 
 ### 2025
@@ -1138,6 +1143,7 @@
     + 외부 함수들이 다른 프로그래밍 언어로 작성된 경우, Caller-Callee 관계 해석이 어려울 수 있으므로, 표준화된 중간 표현으로 변환 후 해석
 + [PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software](https://dl.acm.org/doi/pdf/10.1145/3650212.3680305)
   + code diff를 보고 해당 패치가 어떤 cve 보안 취약점을 패치하기 위한것인지, 즉, 변경된 코드의 semantic 을 AI를 사용하여 식별. 반면, 우리 논문은 Semantic이 아니라 Syntatic 한 변화를 캐치하는 것이 목표이므로 해당 논문의 연구 내용을 참고할 필요는 없을 것으로 보임 
+
 
 ---
 
