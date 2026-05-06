@@ -677,6 +677,13 @@
 + CoinJoin ecosystem insights for Wasabi 1.x, Wasabi 2.x and Whirlpool coordinator-based privacy mixers
 + Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
 
+## OOPSLA
+
+### 2026
+
++ When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure
++ SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models
+
 ## TOSEM
 
 ### 2025
