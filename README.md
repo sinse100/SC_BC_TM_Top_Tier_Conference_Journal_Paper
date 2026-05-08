@@ -1000,6 +1000,7 @@
 #### Workshop on Artificial Intelligence System with Confidential Computing (AISCC)
 + [Facilitating Threat Modeling by Leveraging Large Language Models](https://www.ndss-symposium.org/wp-content/uploads/aiscc2024-16-paper.pdf)
   + 최초의 LLM 기반 위협 모델링 자동화 도구
+  + 도구의 입력은 시스템 설계 정보를 포함하는 분석 대상 시스템의 PDF 문서
 
 #### arXiv
 
