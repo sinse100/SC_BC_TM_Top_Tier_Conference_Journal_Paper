@@ -1318,3 +1318,8 @@
 
 ### 2026
 + [Research Track] Kitten or Panda? Measuring the Specificity of Threat Group Behaviors in Public CTI Knowledge Bases 
+
+## RAID
+
+### 2025
++ [Research Track] From Concealment to Exposure: Understanding the Lifecycle and Infrastructure of APT Domains
