@@ -974,6 +974,9 @@
 
 ### 2026
 
+#### Data4SoftSec: Workshop on Datasets for Software Security
++ An Approach to Predictive Software Threat Modeling Using Public Vulnerability Data
+
 #### arXiv
 + [From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems](https://arxiv.org/pdf/2604.05674v1)
 
