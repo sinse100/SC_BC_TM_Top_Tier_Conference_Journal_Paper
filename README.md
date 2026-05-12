@@ -239,6 +239,7 @@
 + Cryptobazaar: Private Sealed-bid Auctions at Scale
 + Phishing in Wonderland: Evaluating Learning-Based Ethereum Phishing Transaction Detection and Pitfalls
 + [Poster] SPECTRA: Smart Contract Specification Inference via Abstract Interpretation
++ [Poster] Privacy-Preserving Compliance Checks on Ethereum via Selective Disclosure
   
 ### 2025
 
