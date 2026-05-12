@@ -238,6 +238,7 @@
 + Cross-Consensus Reliable Broadcast and its Applications
 + Cryptobazaar: Private Sealed-bid Auctions at Scale
 + Phishing in Wonderland: Evaluating Learning-Based Ethereum Phishing Transaction Detection and Pitfalls
++ [Poster] SPECTRA: Smart Contract Specification Inference via Abstract Interpretation
   
 ### 2025
 
