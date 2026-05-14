@@ -1218,6 +1218,12 @@
 
 + [HoneySat: A Network-based Satellite Honeypot Framework](https://www.ndss-symposium.org/wp-content/uploads/2026-f537-paper.pdf)
 
+## ETC
+
+### 2026
+
+#### Blackhat Asia
++ PwnSat: A Vulnerable-by-Design Satellite Hardware and Platform for AeroSpace Hacking and Research
 ---
 
 # LLM/GenAI
