@@ -766,7 +766,7 @@
 ## AsiaCCS
 
 ### 2026
-+ ATAG: AI-Agent Application Threat Assessment with Attack Graphs
++ [ATAG: AI-Agent Application Threat Assessment with Attack Graphs](https://arxiv.org/pdf/2506.02859)
 
 ## NDSS
 
