@@ -306,6 +306,7 @@
 + Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience
 + Accountable Liveness
 + KZH-Fold: Accountable Voting from Sublinear Accumulation
++ [Poster] Code HarvETHter: Corpus-Driven Decompilation of Ethereum Smart Contracts
 
 ## Asia CCS
 
@@ -832,6 +833,9 @@
 + [How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10589804&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## CCS
+
+### 2025
++ [Poster] Model-driven Privacy Analysis of Messaging Platforms
 
 ### 2022
 
