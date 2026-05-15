@@ -308,11 +308,12 @@
 + KZH-Fold: Accountable Voting from Sublinear Accumulation
 + [Poster] Code HarvETHter: Corpus-Driven Decompilation of Ethereum Smart Contracts
 
-## Asia CCS
+## AsiaCCS
 
 ### 2026
 + [Research Track] PrivaDE: Privacy-preserving Data Evaluation for Blockchain-based Data Marketplaces
 + [Research Track] SoK: Understanding zkVM: From Research to Practice
++ [Research Track] Traceable Threshold Batch Encryption with Applications to Enhancing Mempool Privacy
 
 ### 2025
 
