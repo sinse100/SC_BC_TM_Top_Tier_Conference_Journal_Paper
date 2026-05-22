@@ -352,6 +352,12 @@
 
 ## CSF
 
+### 2026
++ Formalizing Privacy in Decentralized Identity: A Provably Secure Framework with Minimal Disclosure
++ A Composable Game-Theoretic Framework for Blockchains
++ Zero-Knowledge Proof of Progress: Secure Multi-Phase Capture-the-Flag Competitions
++ Beyond Blockchain Ballots: UC-Secure Layer-2 Voting and Governance
+
 ### 2025
 
 + Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems
@@ -775,6 +781,12 @@
 ### 2026
 
 + [Automating Function-Level TARA for Automotive Full-Lifecycle Security](https://www.ndss-symposium.org/wp-content/uploads/2026-s1408-paper.pdf)
+
+## CSF
+
+### 2026
++ Which attacks are most critical? Risk prioritization via attack tree importance measures
++ A unified compositional view of attack tree metrics
 
 ## ASE
 
