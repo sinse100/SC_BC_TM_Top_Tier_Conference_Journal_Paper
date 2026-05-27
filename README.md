@@ -428,6 +428,12 @@
 + Pseudonymity at Risk: Linkage Attacks on Blockchain Users with Off-Chain Cues
 + The Masks We (Think We) Wear: Privacy Threats of Browser-Extension Wallets in the Web3 Ecosystem 
 
+## ICST
+
+### 2026
+
++ Raven: Mining Defensive Patterns in Ethereum via Semantic Transaction Revert Invariants Categories
+
 ## FSE
 
 ### 2026
