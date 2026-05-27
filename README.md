@@ -419,7 +419,14 @@
 
 + The Enemy of Reproducibility is Opacity: What’s Inside the Elliptic Bitcoin Dataset (and Why It Is Wrong)
 
+## PETS
 
+### 2026
+
++ CoinJoin ecosystem insights for Wasabi 1.x, Wasabi 2.x and Whirlpool coordinator-based privacy mixers
++ Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
++ Pseudonymity at Risk: Linkage Attacks on Blockchain Users with Off-Chain Cues
++ The Masks We (Think We) Wear: Privacy Threats of Browser-Extension Wallets in the Web3 Ecosystem 
 
 ## FSE
 
@@ -707,12 +714,7 @@
 + A Methodology for Verifiable Query Result Integrity in Blockchain Indexing Systems
 + A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
 
-## PETS
 
-### 2026
-
-+ CoinJoin ecosystem insights for Wasabi 1.x, Wasabi 2.x and Whirlpool coordinator-based privacy mixers
-+ Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
 
 ## OOPSLA
 
