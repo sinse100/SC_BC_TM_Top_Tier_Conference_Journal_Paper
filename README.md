@@ -395,6 +395,15 @@
 
 ## ACNS
 
+### 2026
+
++ X-CHAIN: Enhancing Electronic Supply Chain Security with 3D X-ray Inspection and Blockchain Integration
++ $2B Lessons: Brigade as a Defense Against Real-World DeFi Bridge Exploits
++ Stealth and Beyond: Attribute-Driven Accountability in Bitcoin Transactions
++ OptiBridge: A Trustless, Cost-Efficient Bridge Between the Lightning Network and Ethereum
++ Visibility-Aware GHOST: Mitigating Visibility Asymmetry in Subtree-Based Proof-of-Work Consensus
++ Crypto-Asset Collateralised Loans in Open Finance via Robust Fully Homomorphic Encryption
+
 ### 2025
 
 + HCC: A Language-Independent Hardening Contract Compiler for Smart Contracts
