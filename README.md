@@ -465,6 +465,7 @@
 ### 2026
 
 + Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
++ From Patterns to Precision: LLM-Guided Detection of Signature Verification Flaws in Smart Contracts
 
 ## ASE
 
