@@ -964,6 +964,11 @@
 + [A user-centric threat model and repository for cyber attacks](https://dl.acm.org/doi/pdf/10.1145/3477314.3507315)
 + [Mitigation lost in translation: leveraging threat information to improve privacy solution selection](https://dl.acm.org/doi/pdf/10.1145/3477314.3507107)
 
+## AAAI
+
+## 2026
++ Mental Model-based Generation of Lies for Insider Threat Modeling
+
 ## CANS
 
 ### 2025
