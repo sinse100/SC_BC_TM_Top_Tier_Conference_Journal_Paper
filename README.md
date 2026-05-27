@@ -374,6 +374,10 @@
 
 ## CRYPTO
 
+### 2026
+
++ Soloist: Distributed SNARK for R1CS with Constant Proof Size
+
 ### 2025
 
 + Merkle Mountain Ranges are Optimal: On the Witness Update Frequency of Cryptographic Accumulators
