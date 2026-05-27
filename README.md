@@ -413,6 +413,14 @@
 + Automated Selfish Mining Analysis for DAG-Based PoW Consensus Protocols
 + Sassafras: Efficient Batch Single Leader Election
 
+## DFRWS USA
+
+### 2026
+
++ The Enemy of Reproducibility is Opacity: What’s Inside the Elliptic Bitcoin Dataset (and Why It Is Wrong)
+
+
+
 ## FSE
 
 ### 2026
