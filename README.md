@@ -728,7 +728,8 @@
 + A Methodology for Verifiable Query Result Integrity in Blockchain Indexing Systems
 + A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
 
-
+### 2024
++ VulnHunt-GPT: a Smart Contract vulnerabilities detector based on OpenAI chatGPT
 
 ## OOPSLA
 
