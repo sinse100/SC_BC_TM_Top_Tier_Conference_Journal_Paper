@@ -528,6 +528,10 @@
 + LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
 + bBench: A Comprehensive Performance Benchmark for Blockchain Applications
 
+### 2023
++ PSCVFinder: A Prompt-Tuning Based Framework for Smart Contract Vulnerability Detection
++ Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding
+
 ## MODELS
 
 ### 2025
@@ -761,9 +765,17 @@
 
 + Formal Verification of Decentralized Autonomous Organizations
 
+### 2023
+
+#### arXiv
++ Do you still need a manual smart contract audit?
+
+#### IEEE International Conference on Computers, Software, and Applications (COMPSAC)
++ Evaluating ChatGPT for Smart Contracts Vulnerability Correction
+
 ### 2022
 
-### Victor Shoup
+#### Victor Shoup
 
 + Proof of history: what is it good for?
 
