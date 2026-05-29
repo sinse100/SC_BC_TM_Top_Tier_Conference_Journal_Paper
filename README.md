@@ -493,6 +493,9 @@
 + Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
 + ScaleCirc: Scaling the Analysis over Circom Circuits
 
+### 2024
++ AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
+
 ## ICSE
 
 ### 2026
