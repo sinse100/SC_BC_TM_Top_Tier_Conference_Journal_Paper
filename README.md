@@ -712,6 +712,12 @@
 + Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
 + Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
 
+## EC
+
+### 2026
++ A General Theory of Liquidity Provisioning for Prediction Markets
++ Auctioning Time to Mitigate Latency Arms Races: Theory and Evidence from Layer-2 Blockchains
+
 ## SAC
 
 ### 2026
