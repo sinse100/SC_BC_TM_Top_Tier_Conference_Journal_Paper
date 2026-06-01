@@ -112,7 +112,7 @@
 + Annual Conference on Neural Information Processing Systems (**NeurIPS**)
 + Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
 + Annual Meeting of the Association for Computational Linguistics (**ACL**)
-+ International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
++ International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 + Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)
 + ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)
 + ACM International Conference on Information and Knowledge Management (**CIKM**)
