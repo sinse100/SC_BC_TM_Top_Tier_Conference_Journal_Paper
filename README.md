@@ -1373,7 +1373,7 @@
 
 ### 2026
 + Semantic-Enhanced Automatic Refinement of Architecture Recovery Results Using LLMs
-+ [Demonstration] ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis
++ [Demonstration] [ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis](https://das.encs.concordia.ca/pdf/ebube_ICSE2026.pdf)
   
 ### 2025
 + An LLM-Based Agent-Oriented Approach for Automated Code Design Issue Localization
