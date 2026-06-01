@@ -414,6 +414,11 @@
 + Automated Selfish Mining Analysis for DAG-Based PoW Consensus Protocols
 + Sassafras: Efficient Batch Single Leader Election
 
+## ICBC
+
+### 2026
++ SoK: Stablecoins in Retail Payments
+
 ## DFRWS USA
 
 ### 2026
