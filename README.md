@@ -113,6 +113,8 @@
 + Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
 + Annual Meeting of the Association for Computational Linguistics (**ACL**)
 + International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
++ International Joint Conference on Artificial Intelligence	(**IJCAI**)
++ European Conference on Artificial Intelligence (**ECAI**)
 + Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)
 + ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)
 + ACM International Conference on Information and Knowledge Management (**CIKM**)
