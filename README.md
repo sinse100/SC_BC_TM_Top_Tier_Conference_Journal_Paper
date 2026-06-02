@@ -718,6 +718,9 @@
 + Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
 + Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
 
+### 2023
++ On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy
+
 ## EC
 
 ### 2026
