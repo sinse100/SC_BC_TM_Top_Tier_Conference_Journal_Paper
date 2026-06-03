@@ -518,6 +518,9 @@
 + GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
 + [Poster] RAGas: Retrieval Augmented Gas Optimization for Smart Contracts with Continuous Knowledge Integration
 
+### 2024
++ [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/pdf/10.1145/3597503.3639117)
+
 ## ISSTA
 
 ### 2025
