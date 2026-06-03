@@ -1239,6 +1239,10 @@
 
 + [Detecting build dependency errors in incremental builds](https://dl.acm.org/doi/pdf/10.1145/3650212.3652105)
 + [C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging](https://dl.acm.org/doi/pdf/10.1145/3650212.3652129)
+  + 델타 디버깅(Delta Debugging)은 최신 버전의 코드에서 버그가 발견되었을 때, 해당 버그를 발생시키는 최소한의 소스코드 변경 사항 조합을 찾아내는 기법임.
+  + 델타 디버깅은 버그와 관련이 있다고 의심되는 변경 사항들을 대상으로 적용 전후 버전에 대해 테스트를 수행하고, 그 결과가 서로 다를 경우 해당 변경 사항들이 버그 발생의 원인일 가능성이 있다고 판단함. 
+
+
 + [Commit Artifact Preserving Build Prediction](https://dl.acm.org/doi/pdf/10.1145/3650212.3680356)
   + 기존 ML 모델 기반 빌드 결과 예측은 커밋 메시지(자연어)와 CodeDiff(프로그래밍 언어)를 효과적으로 활용하지 못함 (ML기반 모델에서는 사람이 패턴과 피쳐를 수동을 넣어줘야 하는데, 자연어와 컴퓨터 언어 상의 수백만가지의 패턴을 일일이 넣어주는게 불가능). 이에 Transformer 기반 딥러닝 모델을 활용하여 커밋 메시지와 CodeDiff 를 충분히 효과적으로 인식하여 빌드 결과를 예측하는 방법론을 제안
 + [AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference](https://dl.acm.org/doi/pdf/10.1145/3650212.3680345)
