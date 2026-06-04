@@ -1233,6 +1233,9 @@
 ### 2025
 
 + [Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation](https://dl.acm.org/doi/pdf/10.1145/3728976)
+  + 프로그램을 지나치게 단순화하여 표현하면, 프로그램에 대한 모델 체킹 과정에서 실제로는 발생하지 않는 요구사항 위반 사례가 가짜 반례로 나타날 수 있음
+  + 해당 가짜 반례가 재 등장하지 않도록 모델을 다시 수정할 때 그 모델에 추가되는 제약조건이 Refinement constraint
+ 
 + [What Happened in This Pipeline? Diffing Build Logs With CiDiff](https://dl.acm.org/doi/pdf/10.1145/3728966)
 
 ### 2024
