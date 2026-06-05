@@ -468,6 +468,11 @@
 
 + ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications
 
+## NeurIPS
+
+### 2024
++ Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-based Reasoning
+
 ## SANER
 
 ### 2026
@@ -505,6 +510,7 @@
 + ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts
 + AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
 + Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts
++ Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models
 
 ## ICSE
 
