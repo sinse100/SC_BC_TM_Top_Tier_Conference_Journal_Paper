@@ -800,7 +800,8 @@
 ### 2023
 
 #### arXiv
-+ Do you still need a manual smart contract audit?
++ [Do you still need a manual smart contract audit?](https://arxiv.org/pdf/2306.12338)
+  + 본 논문은 LLM을 사용하여 스마트 컨트랙트의 보안성을 분석한 최초의 논문임
 
 #### IEEE International Conference on Computers, Software, and Applications (COMPSAC)
 + Evaluating ChatGPT for Smart Contracts Vulnerability Correction
