@@ -1403,7 +1403,7 @@
 + [Demonstration] [ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis](https://das.encs.concordia.ca/pdf/ebube_ICSE2026.pdf)
   
 ### 2025
-+ An LLM-Based Agent-Oriented Approach for Automated Code Design Issue Localization
++ [An LLM-Based Agent-Oriented Approach for Automated Code Design Issue Localization](https://fraolbatole.github.io/assets/pdf/LocalizeAgent.pdf)
 + Datalog-Based Language-Agnostic Change Impact Analysis for Microservices
 + [Demonstrations] SIT: An accurate, compliant SBOM generator with incremental construction
 
