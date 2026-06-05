@@ -502,7 +502,9 @@
 + ScaleCirc: Scaling the Analysis over Circom Circuits
 
 ### 2024
++ ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts
 + AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
++ Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts
 
 ## ICSE
 
