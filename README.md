@@ -802,6 +802,9 @@
 #### arXiv
 + [Do you still need a manual smart contract audit?](https://arxiv.org/pdf/2306.12338)
   + 본 논문은 LLM을 사용하여 스마트 컨트랙트의 보안성을 분석한 최초의 논문임
+  + 기존에 취약점이 알려진 스마트 컨트랙트를 대상으로 F1-Score를 측정하였으나, 사용된 LLM(GPT, Claude)이 평가 대상 코드를 이미 학습했을 가능성을 고려하여, 취약점이 없는 것으로 알려진 코드에 인위적으로 취약점을 삽입한 Mutation Test를 추가로 수행함으로써 학습되지 않은 컨트랙트에 대해서도 취약점을 정확하게 탐지할 수 있는지 평가하고 F1-Score를 측정함.
+  + 본 논문에서는 저자가 Chain-of-Thought 기법을 활용하여 스마트 컨트랙트 내 취약점을 함수 수준의 코드 단위로 분석할 수 있음을 보였음 (Chain-Of-Thought을 사용했을 때의 성능 향상을 정량적으로 평가하진는 않음).
+    
 
 #### IEEE International Conference on Computers, Software, and Applications (COMPSAC)
 + Evaluating ChatGPT for Smart Contracts Vulnerability Correction
