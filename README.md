@@ -1066,6 +1066,12 @@
 
 + [Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11015512&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
+## TOSEM
+
+### 2025
+
++ An Automated Approach to Constructing STRIDE Threat Rule Model and Updating Rule Base
+
 ## ACM COMPUTING SURVEY
 
 ### 2024
