@@ -882,7 +882,7 @@
 
 ### 2024
 
-+ [From automation to CI/CD: a comparative evaluation of threat modeling tools](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10734045&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwNzM0MDQ1)
++ [From automation to CI/CD: a comparative evaluation of threat modeling tools](https://lirias.kuleuven.be/retrieve/c334ca4e-7d9c-4eda-9a34-035181e5ca0f)
   + 무료로 사용 가능하며 실무에서 널리 활용되고 있는 상위 7개의 위협 모델링 자동화 도구(MS-TMT, pytm, CAIRIS, Threat Manager Studio, SPARTA, Threagile, TicTaaC)를 대상으로, CI/CD 방법론에 쉽게 통합될 수 있는지를 평가하였음
     + 평가 기준 1). 위협 모델링의 각 단(소스코드로부터 시스템 모델 생성, 시스템 모델로부터 위협 식별, 식별된 위협들을 입력으로 하여 위험도 평가 기반의 완화 우선순위 식별, 식별된 위협)계를 얼마나 자동화시키고 있는가?
       + MS-TMT는 스텐실(위협 모델링 템플릿)에 정의된 위협 식별 패턴을 기반으로 DFD 내에 해당 패턴이 존재하는지를 자동으로 판단. 그외 나머지 단계에 대한 자동화 기능을 일절 제공하지 않음
