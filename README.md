@@ -337,6 +337,9 @@
 ### 2026
 + Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training
 + Reentrancy Detection in the Age of LLMs
++ ShuttleCross: An Efficient Cross-Chain Smart Contract Invocation Framework
++ ReSect: A Tool for Automated Analysis of Reentrancy Transactions on Blockchains
++ Large-Scale Security Analysis of Multi-Token Smart Contracts: Uncovering Hidden Flaws in Batch Transfers
 
 ### 2025
 
