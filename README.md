@@ -334,6 +334,10 @@
 
 ## DSN
 
+### 2026
++ Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training
++ Reentrancy Detection in the Age of LLMs
+
 ### 2025
 
 + [ammBoost: State Growth Control for AMMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11068854&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
