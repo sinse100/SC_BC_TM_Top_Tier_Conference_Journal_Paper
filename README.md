@@ -106,6 +106,7 @@
 + IEEE/ACM International Conference on Automated Software Engineering (**ASE**)
 + ACM International Conference on the Foundations of Software Engineering (**FSE**)
 + ACM/IEEE International Conference on Model-Driven Engineering Languages and Systems (**MODELS**)
++ International Conference on Software Architecture (**ICSA**)
 + Annual AAAI Conference on Artificial Intelligence (**AAAI**)
 + International Conference on Learning Representations (**ICLR**)
 + International Conference on Machine Learning (**ICML**)
