@@ -813,6 +813,10 @@
 
 + Formal Verification of Decentralized Autonomous Organizations
 
+#### International Workshop on Blockchain Oriented Software Engineering (IWBOSE)
++ The Silence of the Comments: Patterns and Pitfalls in Smart Contract Code Documentation
+
+
 ### 2023
 
 #### arXiv
