@@ -782,6 +782,11 @@
 ### 2025
 + [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://dl.acm.org/doi/pdf/10.1145/3795692)
 
+## TSE
+
+### 2025
++ [Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse](https://arxiv.org/pdf/2509.23679)
+
 ## VehicleSec
 
 ### 2025
