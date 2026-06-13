@@ -231,7 +231,7 @@
 
 ### 2026
 
-+ Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol
++ [Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol](https://www.ndss-symposium.org/wp-content/uploads/2026-f458-paper.pdf)
 + Scalable Off-chain Auction
 + Pallas and Aegis: Rollback Resilience in TEE-Aided Blockchain Consensus
 + Mobius: Enabling Byzantine-Resilient Single Secret Leader Election with Uniquely Verifiable State
@@ -245,17 +245,17 @@
 + Cross-Consensus Reliable Broadcast and its Applications
 + Cryptobazaar: Private Sealed-bid Auctions at Scale
 + Phishing in Wonderland: Evaluating Learning-Based Ethereum Phishing Transaction Detection and Pitfalls
-+ [Poster] SPECTRA: Smart Contract Specification Inference via Abstract Interpretation
++ [Poster] [SPECTRA: Smart Contract Specification Inference via Abstract Interpretation](https://www.ndss-symposium.org/wp-content/uploads/ndss26-poster-21.pdf)
 + [Poster] Privacy-Preserving Compliance Checks on Ethereum via Selective Disclosure
   
 ### 2025
 
 + The Forking Way: When TEEs Meet Consensus
-+ **PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper)** 
++ [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://www.ndss-symposium.org/wp-content/uploads/2025-1357-paper.pdf)
 + Mysticeti: Reaching the Latency Limits with Uncertified DAGs
 + Eclipse Attacks on Monero's Peer-to-Peer Network 
 + Alba: The Dawn of Scalable Bridges for Blockchains
-+ Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection
++ [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection](https://www.ndss-symposium.org/wp-content/uploads/2025-167-paper.pdf)
 + Siniel: Distributed Privacy-Preserving zkSNARK
 + Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding
 + Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead
@@ -267,7 +267,7 @@
 ### 2026
 
 + [Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_shao.pdf)
-+ [Bridging Bitcoin to Second Layers via BitVM2](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_woll.pdf)
++ Bridging Bitcoin to Second Layers via BitVM2
 + [Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_huang-mingyuan.pdf)
 + [Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_liu-yizhong.pdf)
 + [A Midsummer Meme's Dream: Investigating Market Manipulations in the Meme Coin Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_mongardini.pdf)
