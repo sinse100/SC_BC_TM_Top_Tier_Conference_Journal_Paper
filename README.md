@@ -539,7 +539,7 @@
 
 ### 2024
 + [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/pdf/10.1145/3597503.3639117)
-
++ [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3597503.3623335)
 ## ISSTA
 
 ### 2025
