@@ -217,6 +217,8 @@
 ### 2026
 + Practical Attacks on Session Messenger and Oxen Blockchain
 + Decentralized Reliability Estimation for Low Latency Mixnets
++ PROF: Protected Order Flow in a Profit-Seeking World
++ Persistent BitTorrent Trackers
 
 ### 2025
 
