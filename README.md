@@ -206,6 +206,7 @@
 + Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
 + TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
 + Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
++ [Poster] Decentralized Trustless Query-Based Collaborative Learning under Adversarial Heterogeneity without Model Sharing
 
 ### 2020
 
@@ -973,7 +974,8 @@
 ## S&P
 
 ### 2026
-+ Human-Centered Threat Modeling in Practice: Lessons, Challenges, and Paths Forward 
++ Human-Centered Threat Modeling in Practice: Lessons, Challenges, and Paths Forward
++ [Poster] Beyond STRIDE: A Unified Multi-Attribute Framework for Trustworthy AI
 
 ### 2025
 
