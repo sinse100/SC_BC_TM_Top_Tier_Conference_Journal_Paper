@@ -468,6 +468,12 @@
 + [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
 + [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
+## ICST
+
+### 2026
+
++ Raven: Mining Defensive Patterns in Ethereum via Semantic Transaction Revert Invariants Categories
+
 ## SANER
 
 ### 2026
@@ -475,88 +481,18 @@
 + Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
 + From Patterns to Precision: LLM-Guided Detection of Signature Verification Flaws in Smart Contracts
 
-## ICBC
-
-### 2026
-+ SoK: Stablecoins in Retail Payments
-
-
-
-
-
-## ICST
-
-### 2026
-
-+ Raven: Mining Defensive Patterns in Ethereum via Semantic Transaction Revert Invariants Categories
-
-## FSE
-
-### 2026
-
-+ Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing
-+ ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
-+ Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration
-+ SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts
-+ SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning
-+ Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model
-+ Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
-+ V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
-+ Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
-+ Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis
-+ SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization
-+ WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions
+## ISSRE
 
 ### 2025
 
-+ [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
-  + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
++ Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
++ Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
++ LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
++ bBench: A Comprehensive Performance Benchmark for Blockchain Applications
 
 ### 2023
-+ [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3611643.3616270)
-
-### 2021
-
-+ ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications
-
-## NeurIPS
-
-### 2024
-+ Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-based Reasoning
-
-
-
-## ASE
-
-### 2025
-
-+ [security/privacy]SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
-+ Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs
-+ [security/privacy] Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model
-+ Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem
-+ [security/privacy] Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
-+ PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts
-+ [VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods](https://pure.manchester.ac.uk/ws/portalfiles/portal/1632624289/ASE2025.pdf)
-+ SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation
-+ PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation
-+ Soleker: Uncovering Vulnerabilities in Solana Smart Contracts
-+ Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study
-+ evalSmarT: An LLM-Based Evaluation Framework for Smart Contract Comment Generation​
-+ PROXiFY: A Bytecode Analysis Tool for Detecting and Classifying Proxy Contracts in Ethereum Smart Contracts
-+ Detecting Various DeFi Price Manipulations with LLM Reasoning
-+ Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation
-+ ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts
-+ Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation
-+ The Gold Digger in the Dark Forest: Industrial-Scale MEV Analysis in Ethereum
-+ FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization
-+ Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
-+ ScaleCirc: Scaling the Analysis over Circom Circuits
-
-### 2024
-+ ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts
-+ AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
-+ Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts
-+ Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models
++ PSCVFinder: A Prompt-Tuning Based Framework for Smart Contract Vulnerability Detection
++ Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding
 
 ## ICSE
 
@@ -595,19 +531,65 @@
       ```
   + 본 논문에서는 Library Misuse를 두 가지 유형으로 구분함. 첫 번째 유형은 라이브러리 개발자에 의한 Library Misuse로, 라이브러리 함수에서 예외 처리나 입력값 검증을 수행하지 않는 등 안전하지 않은 라이브러리를 개발하는 행위를 의미함. 두 번째 유형은 라이브러리 사용자(DApp 개발자)에 의한 Library Misuse로, 라이브러리 개발자가 의도한 사용 방식과 다르게 라이브러리를 활용하는 경우를 의미함. 예를 들어, SafeMath 라이브러리를 사용하면서도 오버플로우가 발생할 수 있는 별도의 함수를 사용하거나, 라이브러리가 제공하는 안전한 연산 대신 원시 산술 연산자(*, +, -, /)를 직접 사용하는 경우가 이에 해당함. 
 
-
-## ISSRE
+## ASE
 
 ### 2025
 
-+ Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
-+ Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
-+ LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
-+ bBench: A Comprehensive Performance Benchmark for Blockchain Applications
++ [security/privacy]SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
++ Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs
++ [security/privacy] Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model
++ Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem
++ [security/privacy] Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
++ PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts
++ [VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods](https://pure.manchester.ac.uk/ws/portalfiles/portal/1632624289/ASE2025.pdf)
++ SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation
++ PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation
++ Soleker: Uncovering Vulnerabilities in Solana Smart Contracts
++ Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study
++ evalSmarT: An LLM-Based Evaluation Framework for Smart Contract Comment Generation​
++ PROXiFY: A Bytecode Analysis Tool for Detecting and Classifying Proxy Contracts in Ethereum Smart Contracts
++ Detecting Various DeFi Price Manipulations with LLM Reasoning
++ Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation
++ ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts
++ Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation
++ The Gold Digger in the Dark Forest: Industrial-Scale MEV Analysis in Ethereum
++ FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization
++ Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
++ ScaleCirc: Scaling the Analysis over Circom Circuits
+
+### 2024
++ ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts
++ AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
++ Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts
++ Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models
+
+## FSE
+
+### 2026
+
++ Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing
++ ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
++ Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration
++ SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts
++ SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning
++ Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model
++ Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
++ V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
++ Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
++ Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis
++ SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization
++ WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions
+
+### 2025
+
++ [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
+  + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
 
 ### 2023
-+ PSCVFinder: A Prompt-Tuning Based Framework for Smart Contract Vulnerability Detection
-+ Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding
++ [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3611643.3616270)
+
+### 2021
++ ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications
 
 ## MODELS
 
@@ -619,6 +601,30 @@
 ### 2022
 
 + [Predicate abstractions for smart contract validation](https://dl.acm.org/doi/pdf/10.1145/3550355.3552462)
+
+
+## ICBC
+
+### 2026
++ SoK: Stablecoins in Retail Payments
+
+
+
+
+## NeurIPS
+
+### 2024
++ Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-based Reasoning
+
+
+
+
+
+
+
+
+
+
 
 ## FC
 
