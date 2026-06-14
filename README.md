@@ -587,6 +587,8 @@
 
 ### 2023
 + [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3611643.3616270)
+  + 본 논문은 현재 배포된 스마트 컨트랙트를 대상으로 외부 컨트랙트 코드의 재사용 현황을 분석하였음. 구체적으로, 외부 코드를 불러오는 방식(예: import 문 사용 여부 또는 코드 복사·붙여넣기 방식)과 실제로 가장 빈번하게 사용되는 외부 컨트랙트 코드, 사용 목적 등에 대한 통계를 제시
+  + 그러나 외부 컨트랙트의 코드를 사용하는 과정에서 보안 취약점을 발생시킬 수 있는 오용 사례(misuse case)는 제시하지 않음
 
 ### 2021
 + ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications
