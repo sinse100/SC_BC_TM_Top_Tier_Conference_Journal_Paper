@@ -427,10 +427,14 @@
 + Automated Selfish Mining Analysis for DAG-Based PoW Consensus Protocols
 + Sassafras: Efficient Batch Single Leader Election
 
-## ICBC
+## ESORICS
 
-### 2026
-+ SoK: Stablecoins in Retail Payments
+### 2025
+
++ Anamorphic Monero Transactions: the Threat of Bypassing Anti-Money Laundering Laws
++ Analysis of input-output mappings in coinjoin transactions with arbitrary values
++ The Economics of Deception: Structural Patterns of Rug Pull across DeFi Blockchains
++ Premining in the Shadows: How Hidden Blocks Weaken the Security of Proof-of-Work Chains
 
 ## DFRWS USA
 
@@ -446,6 +450,39 @@
 + Gryphes: Hybrid Proofs for Modular SNARKs with Applications to zkRollups
 + Pseudonymity at Risk: Linkage Attacks on Blockchain Users with Off-Chain Cues
 + The Masks We (Think We) Wear: Privacy Threats of Browser-Extension Wallets in the Web3 Ecosystem 
+
+## FM
+
+### 2026
++ [TAP Track] Towards Formally Verified Smart Contracts Compilation
+
+## ISSTA
+
+### 2025
+
++ Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
++ [security/privacy] SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment
++ [security/privacy] Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
++ [security/privacy] OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine
++ [security/privacy] Enhancing Smart Contract Security Analysis with Execution Property Graphs
++ [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
++ [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
+
+## SANER
+
+### 2026
+
++ Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
++ From Patterns to Precision: LLM-Guided Detection of Signature Verification Flaws in Smart Contracts
+
+## ICBC
+
+### 2026
++ SoK: Stablecoins in Retail Payments
+
+
+
+
 
 ## ICST
 
@@ -475,6 +512,9 @@
 + [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
   + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
 
+### 2023
++ [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3611643.3616270)
+
 ### 2021
 
 + ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications
@@ -484,12 +524,7 @@
 ### 2024
 + Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-based Reasoning
 
-## SANER
 
-### 2026
-
-+ Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
-+ From Patterns to Precision: LLM-Guided Detection of Signature Verification Flaws in Smart Contracts
 
 ## ASE
 
@@ -559,17 +594,7 @@
       }
       ```
   + 본 논문에서는 Library Misuse를 두 가지 유형으로 구분함. 첫 번째 유형은 라이브러리 개발자에 의한 Library Misuse로, 라이브러리 함수에서 예외 처리나 입력값 검증을 수행하지 않는 등 안전하지 않은 라이브러리를 개발하는 행위를 의미함. 두 번째 유형은 라이브러리 사용자(DApp 개발자)에 의한 Library Misuse로, 라이브러리 개발자가 의도한 사용 방식과 다르게 라이브러리를 활용하는 경우를 의미함. 예를 들어, SafeMath 라이브러리를 사용하면서도 오버플로우가 발생할 수 있는 별도의 함수를 사용하거나, 라이브러리가 제공하는 안전한 연산 대신 원시 산술 연산자(*, +, -, /)를 직접 사용하는 경우가 이에 해당함. 
-## ISSTA
 
-### 2025
-
-+ Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
-+ [security/privacy] SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment
-+ [security/privacy] Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
-+ [security/privacy] OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine
-+ [security/privacy] Enhancing Smart Contract Security Analysis with Execution Property Graphs
-+ [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
-+ [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
 ## ISSRE
 
@@ -719,10 +744,7 @@
 + Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms
 + Economic Systems in the Metaverse: Basics, State of the Art, and Challenges
 
-## FM
 
-### 2026
-+ [TAP Track] Towards Formally Verified Smart Contracts Compilation 
 
 ## IMC
 
@@ -742,14 +764,7 @@
 + FBP-Eth2.0: A Fast Block Propagation in Ethereum 2.0 via Parallel Execution and Proactive Compaction
 + Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
 
-## ESORICS
 
-### 2025
-
-+ Anamorphic Monero Transactions: the Threat of Bypassing Anti-Money Laundering Laws
-+ Analysis of input-output mappings in coinjoin transactions with arbitrary values
-+ The Economics of Deception: Structural Patterns of Rug Pull across DeFi Blockchains
-+ Premining in the Shadows: How Hidden Blocks Weaken the Security of Proof-of-Work Chains
 
 ## WWW
 
