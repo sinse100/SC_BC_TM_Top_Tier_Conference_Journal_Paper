@@ -501,7 +501,7 @@
 + Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem
 + [security/privacy] Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
 + PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts
-+ VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods
++ [VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods](https://pure.manchester.ac.uk/ws/portalfiles/portal/1632624289/ASE2025.pdf)
 + SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation
 + PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation
 + Soleker: Uncovering Vulnerabilities in Solana Smart Contracts
