@@ -540,6 +540,22 @@
 ### 2024
 + [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/pdf/10.1145/3597503.3639117)
 + [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3597503.3623335)
+  + Smart Contract Library는 다른 스마트 컨트랙트에서 불러와 재사용할 수 있도록 개발된 스마트 컨트랙트로, Python에서 패키지를 불러와 사용하는 것과 유사한 개념
+    + 예) Solidity 언어로 개발된 SafeMath 라이브러리는 Integer Overflow 또는 underflow 로부터 안전한 사칙 연산 함수들의 집합임 
+      ```
+      library SafeMath {
+        /**
+        * @dev Multiplies two numbers, throws on overflow.
+        */
+        function mul(uint256 a, uint256 b) internal pure returns (uint256 c) {
+           if (a == 0) {
+              return 0;
+           }
+           c = a * b;
+           assert(c / a == b);
+           return c;
+        }
+      ``` 
 ## ISSTA
 
 ### 2025
