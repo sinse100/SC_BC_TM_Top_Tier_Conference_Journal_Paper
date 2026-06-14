@@ -602,29 +602,71 @@
 
 + [Predicate abstractions for smart contract validation](https://dl.acm.org/doi/pdf/10.1145/3550355.3552462)
 
+## AAAI
 
-## ICBC
+### 2025
 
-### 2026
-+ SoK: Stablecoins in Retail Payments
-
-
-
++ [SCALM: Detecting Bad Practices in Smart Contracts Through LLMs](https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181)
 
 ## NeurIPS
 
 ### 2024
 + Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-based Reasoning
 
+## CHI
 
+### 2025
 
++ Using Affordance to Understand Usability of Web3 Social Media
++ Understanding End-User Perception of Transfer Risks in Smart Contracts
++ Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.
 
+## INFOCOM
 
+### 2026
 
++ MVCX: An Efficient Multi-Version-Based Concurrency Control Scheme for Cross-Chain Smart Contract Transactions
++ JiangZiya: Dependency-aware Smart Contract Migration for Scalable Sharded Blockchains
++ FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges
++ FBP-Eth2.0: A Fast Block Propagation in Ethereum 2.0 via Parallel Execution and Proactive Compaction
++ Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
 
+## WWW
 
+### 2026
 
++ BIND: Enabling Continuous Transaction Processing During Account Migration in Sharded Blockchains
++ Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception
++ Alzo: Auto-Tuning with Reinforcement Learning for DAG-based Blockchains
++ Evasion Under Blockchain Sanctions
++ Risk-free Selfish Mining in Hybrid Predictability Model. A Case Study on Polkadot’s NPoS
++ The Promise vs. Reality of NFT Decentralization: An Empirical Study of Storage Strategies and Defects
++ Eclipse Attacks on Ethereum’s Peer-to-Peer Network
++ LiquidityPool: Game-Theoretic Analysis of Stakeholder Revenue in Ranking-Dependent DeFi
++ Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
++ Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
 
+### 2023
++ On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy
+
+## SAC
+
+### 2026
+
++ [Randomness is good enough in DAG-based Federated Learning](https://hal.science/hal-05326573v1/file/Randomness_is_good_enough_in_DAG_based_Federated_Learning__submiited_HAL.pdf)
++ FRAIN to Train: A Fast-and-Reliable  Solution for Decentralized Asynchronous Federated Learning
++ Mitigating MEV with Verifiable  Randomness: A VRF-Seeded Fair Transaction  Ordering Protocol
++ RepStake: A Blockchain-Based Trust System with Reputation Staking
++ A Framework for Zero-Knowledge Proofs of Exploits in Solidity Smart Contracts
++ A Decentralized Behavioral Trust Framework Across Mobile Networks
++ Toward Decentralized Asset Interoperability in a Heterogeneous Blockchain Environment: A Case Study of the XRP Ledger and EVM Blockchains
++ Evaluation of Smart Contract Tools for Comprehensive Vulnerability Detection and Optimal Integration
++ Delegated Keys for Smart Wallets: Enabling Secure Transaction Execution from Apple Watch via ERC-4337 & Kernel Wallet
++ A Methodology for Verifiable Query Result Integrity in Blockchain Indexing Systems
++ A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
+
+### 2024
++ VulnHunt-GPT: a Smart Contract vulnerabilities detector based on OpenAI chatGPT
 
 ## FC
 
@@ -675,12 +717,6 @@
 + Short Paper: Rewardable Naysayer Proofs
 + The Latency Price of Threshold Cryptosystem in Blockchains
 
-## AAAI
-
-### 2025
-
-+ [SCALM: Detecting Bad Practices in Smart Contracts Through LLMs](https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181)
-
 ## AFT
 
 ### 2025
@@ -714,13 +750,53 @@
 + [security/privacy] pvpAMM: A perpetual market for unbalanced long-short positions
 + [security/privacy] On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
 
-## CHI
+## ICBC
+
+### 2026
++ SoK: Stablecoins in Retail Payments
+
+## IMC
 
 ### 2025
 
-+ Using Affordance to Understand Usability of Web3 Social Media
-+ Understanding End-User Perception of Transfer Risks in Smart Contracts
-+ Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.
++ [security/privacy] Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum
++ [security/privacy] Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client
++ The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints
+
+## EC
+
+### 2026
++ A General Theory of Liquidity Provisioning for Prediction Markets
++ Auctioning Time to Mitigate Latency Arms Races: Theory and Evidence from Layer-2 Blockchains
+
+## OOPSLA
+
+### 2026
+
++ When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure
++ SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models
+
+## VehicleSec
+
+### 2025
+
++ [Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain](https://www.usenix.org/system/files/vehiclesec25-khan.pdf)
+
+## TSE
+
+### 2025
++ [Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse](https://arxiv.org/pdf/2509.23679)
+
+## TOSEM
+
+### 2025
++ [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://dl.acm.org/doi/pdf/10.1145/3795692)
+
+## TOPLAS
+
+### 1982
+
++ [The Byzantine Generals Problem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiJ7vOHro6TAxXNnK8BHUkFKc4QFnoECAwQAQ&url=https%3A%2F%2Flamport.azurewebsites.net%2Fpubs%2Fbyz.pdf&usg=AOvVaw2TUQth8WaXRXn1bNF1AW0H&opi=89978449)
 
 ## ACM Computing Surveys
 
@@ -750,151 +826,65 @@
 + Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms
 + Economic Systems in the Metaverse: Basics, State of the Art, and Challenges
 
+## Etc
 
+### Blackhat Asia
 
-## IMC
-
-### 2025
-
-+ [security/privacy] Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum
-+ [security/privacy] Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client
-+ The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints
-
-## INFOCOM
-
-### 2026
-
-+ MVCX: An Efficient Multi-Version-Based Concurrency Control Scheme for Cross-Chain Smart Contract Transactions
-+ JiangZiya: Dependency-aware Smart Contract Migration for Scalable Sharded Blockchains
-+ FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges
-+ FBP-Eth2.0: A Fast Block Propagation in Ethereum 2.0 via Parallel Execution and Proactive Compaction
-+ Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
-
-
-
-## WWW
-
-### 2026
-
-+ BIND: Enabling Continuous Transaction Processing During Account Migration in Sharded Blockchains
-+ Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception
-+ Alzo: Auto-Tuning with Reinforcement Learning for DAG-based Blockchains
-+ Evasion Under Blockchain Sanctions
-+ Risk-free Selfish Mining in Hybrid Predictability Model. A Case Study on Polkadot’s NPoS
-+ The Promise vs. Reality of NFT Decentralization: An Empirical Study of Storage Strategies and Defects
-+ Eclipse Attacks on Ethereum’s Peer-to-Peer Network
-+ LiquidityPool: Game-Theoretic Analysis of Stakeholder Revenue in Ranking-Dependent DeFi
-+ Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models
-+ Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns
-
-### 2023
-+ On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy
-
-## EC
-
-### 2026
-+ A General Theory of Liquidity Provisioning for Prediction Markets
-+ Auctioning Time to Mitigate Latency Arms Races: Theory and Evidence from Layer-2 Blockchains
-
-## SAC
-
-### 2026
-
-+ [Randomness is good enough in DAG-based Federated Learning](https://hal.science/hal-05326573v1/file/Randomness_is_good_enough_in_DAG_based_Federated_Learning__submiited_HAL.pdf)
-+ FRAIN to Train: A Fast-and-Reliable  Solution for Decentralized Asynchronous Federated Learning
-+ Mitigating MEV with Verifiable  Randomness: A VRF-Seeded Fair Transaction  Ordering Protocol
-+ RepStake: A Blockchain-Based Trust System with Reputation Staking
-+ A Framework for Zero-Knowledge Proofs of Exploits in Solidity Smart Contracts
-+ A Decentralized Behavioral Trust Framework Across Mobile Networks
-+ Toward Decentralized Asset Interoperability in a Heterogeneous Blockchain Environment: A Case Study of the XRP Ledger and EVM Blockchains
-+ Evaluation of Smart Contract Tools for Comprehensive Vulnerability Detection and Optimal Integration
-+ Delegated Keys for Smart Wallets: Enabling Secure Transaction Execution from Apple Watch via ERC-4337 & Kernel Wallet
-+ A Methodology for Verifiable Query Result Integrity in Blockchain Indexing Systems
-+ A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
-
-### 2024
-+ VulnHunt-GPT: a Smart Contract vulnerabilities detector based on OpenAI chatGPT
-
-## OOPSLA
-
-### 2026
-
-+ When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure
-+ SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models
-
-## TOSEM
-
-### 2025
-+ [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://dl.acm.org/doi/pdf/10.1145/3795692)
-
-## TSE
-
-### 2025
-+ [Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse](https://arxiv.org/pdf/2509.23679)
-
-## VehicleSec
-
-### 2025
-
-+ [Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain](https://www.usenix.org/system/files/vehiclesec25-khan.pdf)
-
-## TOPLAS
-
-### 1982
-
-+ [The Byzantine Generals Problem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiJ7vOHro6TAxXNnK8BHUkFKc4QFnoECAwQAQ&url=https%3A%2F%2Flamport.azurewebsites.net%2Fpubs%2Fbyz.pdf&usg=AOvVaw2TUQth8WaXRXn1bNF1AW0H&opi=89978449)
-
-## ETC
-
-### 2026
-
-#### Blackhat Asia
+#### 2026
 
 + [Briefing] Fortifying the Foundation: LLM-Empowered Differential Testing for the Ethereum Infrastructure
 + [Arsenal] Bastet - AI Smart Contract Vulnerability Detector
 + [Arsenal] Mothra: Timeless debugging of EVM transactions with Ghidra
 
-#### International Conference on Rigorous State Based Methods (ABZ)
+
+### International Conference on Rigorous State Based Methods (ABZ)
+
+#### 2026
 
 + Formal Verification of Decentralized Autonomous Organizations
 
-#### International Workshop on Blockchain Oriented Software Engineering (IWBOSE)
+### International Workshop on Blockchain Oriented Software Engineering (IWBOSE)
+
+#### 2026
+
 + The Silence of the Comments: Patterns and Pitfalls in Smart Contract Code Documentation
 
+### IEEE International Conference on Computers, Software, and Applications (COMPSAC)
 
-### 2023
+#### 2023
 
-#### arXiv
++ Evaluating ChatGPT for Smart Contracts Vulnerability Correction
+
+### arXiv
+
+####  2023
+
 + [Do you still need a manual smart contract audit?](https://arxiv.org/pdf/2306.12338)
   + 본 논문은 LLM을 사용하여 스마트 컨트랙트의 보안성을 분석한 최초의 논문임
   + 기존에 취약점이 알려진 스마트 컨트랙트를 대상으로 F1-Score를 측정하였으나, 사용된 LLM(GPT, Claude)이 평가 대상 코드를 이미 학습했을 가능성을 고려하여, 취약점이 없는 것으로 알려진 코드에 인위적으로 취약점을 삽입한 Mutation Test를 추가로 수행함으로써 학습되지 않은 컨트랙트에 대해서도 취약점을 정확하게 탐지할 수 있는지 평가하고 F1-Score를 측정함.
   + 본 논문에서는 저자가 Chain-of-Thought 기법을 활용하여 스마트 컨트랙트 내 취약점을 함수 수준의 코드 단위로 분석할 수 있음을 보였음 (Chain-Of-Thought을 사용했을 때의 성능 향상을 정량적으로 평가하진는 않음).
     
+### Victor Shoup
 
-#### IEEE International Conference on Computers, Software, and Applications (COMPSAC)
-+ Evaluating ChatGPT for Smart Contracts Vulnerability Correction
-
-### 2022
-
-#### Victor Shoup
+#### 2022
 
 + Proof of history: what is it good for?
 
-### 2016
+### Bitcoin Lightning Network 
 
-#### Bitcoin Lightning Network 
+#### 2016
 
 + The bitcoin lightning network: Scalable off-chain instant payments
 
-### 2013
+### Ethereum
 
-#### Ethereum
+#### 2013
 
 + Ethereum Whitepaper
 
-### 2008
+### Bitcoin
 
-#### Bitcoin
+#### 2008
 
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 
