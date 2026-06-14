@@ -719,6 +719,11 @@
 + Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms
 + Economic Systems in the Metaverse: Basics, State of the Art, and Challenges
 
+## FM
+
+### 2026
++ [TAP Track] Towards Formally Verified Smart Contracts Compilation 
+
 ## IMC
 
 ### 2025
