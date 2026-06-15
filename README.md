@@ -1152,103 +1152,118 @@
   + 분석을 수행하기 위해 SysML 모델과 Safety Invariant는 모두 TLA+ 정형 명세 언어로 변환
   + 이후 모델 검증을 통해 안전 속성을 만족하는 상태 전이 순서열(safe trace)과 안전 속성을 위반하는 상태 전이 순서열(unsafe trace)을 추출
   + FASR은 이러한 두 종류의 trace를 비교하여 UCA의 유형을 분류
-    + 예를 들어, safe trace가 A ,B, C, D이고 unsafe trace가 A, B, D인 경우, 상태전이 C(대기에 해당하는 wait 가 아니라는 가정)가 누락되어 안전 속성이 위반되었다면 해당 UCA는 제어 행위 C가 제공되지 않은 상황으로 판단되어 Not Providing 유형으로 분류   
+    + 예를 들어, safe trace가 A ,B, C, D이고 unsafe trace가 A, B, D인 경우, 상태전이 C(대기에 해당하는 wait 가 아니라는 가정)가 누락되어 안전 속성이 위반되었다면 해당 UCA는 제어 행위 C가 제공되지 않은 상황으로 판단되어 Not Providing 유형으로 분류
++ [From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems](https://arxiv.org/pdf/2604.05674v1)
 
+#### 2024
 
++ + [Using Retriever Augmented Large Language Models for Attack Graph Generation](https://arxiv.org/pdf/2408.05855)
 
-### 2026
+### Data4SoftSec: Workshop on Datasets for Software Security
 
-#### Data4SoftSec: Workshop on Datasets for Software Security
+#### 2026
+
 + An Approach to Predictive Software Threat Modeling Using Public Vulnerability Data
 + DART: Data Augmentation of Rare ATT&CK Techniques Using LLM Agents
 
-#### arXiv
-+ [From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems](https://arxiv.org/pdf/2604.05674v1)
+### Blackhat Asia
 
-#### Blackhat Asia
+#### 2026
 
 + [Arsenal] Continuous CyberBattleSim: A More Realistic Simulation for AI-driven Attack Path Discovery
 
-#### Workshop on LLM Assisted Security and Trust Exploration (LAST-X)
+### Workshop on LLM Assisted Security and Trust Exploration (LAST-X)
+
+#### 2026
 
 + [PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM](https://www.ndss-symposium.org/wp-content/uploads/lastx2026-80.pdf)
 
-### 2025
+### International Workshop on Privacy Engineering (IWPE)
 
-#### International Workshop on Privacy Engineering (IWPE)
+#### 2025
 
 + [PILLAR: LINDDUN Privacy Threat Modeling Using LLMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11129583&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
-#### Software and Systems Modeling 
+### Software and Systems Modeling 
+
+#### 2025
 
 + [Run-time threat models for systematic and continuous risk assessment](https://link.springer.com/content/pdf/10.1007/s10270-024-01242-5.pdf)
 
-#### CoNEXT Workshop on Blockchain-Network Synergy
+### CoNEXT Workshop on Blockchain-Network Synergy
+
+#### 2025
 
 + [Efficient DoS Attack Defense Strategy for Blockchain Networks Based on Bayesian Attack Graph and Stackelberg Game](https://dl.acm.org/doi/pdf/10.1145/3769698.3771228)
 
-#### ACM Cloud Computing Security Workshop (CCSW)
+### ACM Cloud Computing Security Workshop (CCSW)
+
+#### 2025
+
 + [ThreatCompute: Leveraging LLMs for Automated Threat Modeling of Cloud-Native Applications](https://dl.acm.org/doi/pdf/10.1145/3733812.3765533)
 
-### 2024
+### Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)
 
-#### Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)
+#### 2024
 
 + [Secmons: A security monitoring framework for iec 61850 substations based on configuration files and logs](https://research.vu.nl/ws/portalfiles/portal/367931076/SecMonS_A_Security_Monitoring_Framework_for_IEC_61850_Substations_Based_on_Configuration_Files_and_Logs.pdf)
 
-#### Workshop on Artificial Intelligence System with Confidential Computing (AISCC)
+### Workshop on Artificial Intelligence System with Confidential Computing (AISCC)
+
+#### 2024
+
 + [Facilitating Threat Modeling by Leveraging Large Language Models](https://www.ndss-symposium.org/wp-content/uploads/aiscc2024-16-paper.pdf)
   + 최초의 LLM 기반 위협 모델링 자동화 도구
   + 도구의 입력은 시스템 설계 정보를 포함하는 분석 대상 시스템의 PDF 문서
 
-#### arXiv
+### CyberSecurity in a DevOps Environment
 
-+ [Using Retriever Augmented Large Language Models for Attack Graph Generation](https://arxiv.org/pdf/2408.05855)
-
-### 2023
-
-#### CyberSecurity in a DevOps Environment
+#### 2023
 
 + Ctam: A Tool for Continuous Threat Analysis and Management
 
-#### Conference on Game Theory and AI for Security (GameSec)
+### Conference on Game Theory and AI for Security (GameSec)
+
+#### 2023
 
 + [Honeypot Allocation for Cyber Deception in Dynamic Tactical Networks: A Game Theoretic Approach](https://arxiv.org/pdf/2308.11817)
 
-#### Workshop on Automotive Cyber Security(ACSW)
-
-+ [A threat model for soft privacy on smart cars](https://arxiv.org/pdf/2306.04222)
-
-### 2022
-
-#### International Conference on Availability, Reliability and Security (ARES)
-
-+ [GTM: Game Theoretic Methodology for optimal cybersecurity defending strategies and investments](https://dl.acm.org/doi/pdf/10.1145/3538969.3544431)
-
-#### IEEE Computer Society's flagship conference on Computers, Software, and Applications (COMPSAC)
-
-+ [A Multi-Objective Approach for Security Hardening and Probabilistic Vulnerability Assessment on Attack Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9842592&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-
-#### ACSW
-
-+ [A Comparative Analysis of UNECE WP.29 R155 and ISO/SAE 21434](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9799351&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-
-### 2020
-
-#### GameSec
+#### 2020
 
 + [Game theory on attack graph for cyber deception](https://www.gamesec-conf.org/2020/GameSec_Proceeding_2020/Paper%20invited%202.pdf)
 
-### 2011
+### Workshop on Automotive Cyber Security(ACSW)
 
-#### Requirements Engineering
++ [A Comparative Analysis of UNECE WP.29 R155 and ISO/SAE 21434](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9799351&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
+#### 2023
+
++ [A threat model for soft privacy on smart cars](https://arxiv.org/pdf/2306.04222)
+
+#### 2022
+
+### International Conference on Availability, Reliability and Security (ARES)
+
+#### 2022
+
++ [GTM: Game Theoretic Methodology for optimal cybersecurity defending strategies and investments](https://dl.acm.org/doi/pdf/10.1145/3538969.3544431)
+
+### IEEE Computer Society's flagship conference on Computers, Software, and Applications (COMPSAC)
+
+#### 2022
+
++ [A Multi-Objective Approach for Security Hardening and Probabilistic Vulnerability Assessment on Attack Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9842592&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
+### Requirements Engineering
+
+#### 2011
 
 + [A privacy threat analysis framework: supporting the elicitation and fulfillment of privacy requirements](https://link.springer.com/content/pdf/10.1007/s00766-010-0115-7.pdf)
   + LINDDUN에서는 공격 시나리오를 위협 시나리오(시스템 내에 위협이 발생하는 과정)라고 표현함. 그리고 이 위협 시나리오를 표현하는 방법론 중 하나로 오용 사례(misuse case)가 있음. 오용 사례에서는 위협원(misactor)이 외부자인지 내부자인지, 또 선의의 사용자에 의하여 사고로 의해 발생 가능한 시나리오인지 악의를 가진 공격자에 의하여 발생가능한 시나리오인지 구분하도록 명시되어있음
 
-### 1997
+### IEEE Annals of the History of Computing
 
-#### IEEE Annals of the History of Computing
+#### 1997
 
 + [Mathematics, Technology, and Trust: Formal Verification, Computer Security, and the U.S. Military](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=601735&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
