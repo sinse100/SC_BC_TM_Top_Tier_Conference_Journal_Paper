@@ -788,6 +788,9 @@
 
 ### 2025
 + [Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse](https://arxiv.org/pdf/2509.23679)
+  + 본 논문에서 제안하는 도구는 바이트코드 수준에서 Subcontract Misuse를 분석할 수 있는 최초의 도구임
+    + Subcontract는 함수의 구현부가 없는 컨트랙트(예: Abstract Contract, Interface)와 함수의 구현부를 포함하는 컨트랙트(예: Library)를 모두 포괄하는 개념으로 사용
+    + 본 논문에서는 전이학습 기반 모델을 활용하여 바이트코드에서 상속된 함수를 식별하고, 이를 통해 Subcontract 사용 여부를 판별
 
 ## TOSEM
 
