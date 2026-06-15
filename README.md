@@ -1139,7 +1139,22 @@
 
 + [MITRE ATT&CK: State of the Art and Way Forward](https://dl.acm.org/doi/pdf/10.1145/3687300)
 
-## ETC
+## Etc
+
+### arXiv
+
+#### 2026
++ [FASR: Automated Identification of Unsafe Control Actions in STPA](https://arxiv.org/pdf/2605.30697)
+  + 본 논문은 STPA(System-Theoretic Process Analysis)의 자동화를 지원하기 위한 도구인 FASR(Formalizing and Automating STPA with Robustness)를 제안
+  + FASR은 모델 기반 접근법(Model-Based Approach)과 정형 기법(Formal Methods)을 결합하여 UCA(Unsafe Control Action)를 자동으로 식별하는 것을 목표로 함
+  + FASR의 입력은 두 가지로 구성됨. 첫째, SysML로 작성된 시스템 모델이며, 둘째, 시스템의 안전 요구사항을 명세한 수식
+  + FASR의 출력은 분석 과정에서 식별된 UCA 목록
+  + 분석을 수행하기 위해 SysML 모델과 Safety Invariant는 모두 TLA+ 정형 명세 언어로 변환
+  + 이후 모델 검증을 통해 안전 속성을 만족하는 상태 전이 순서열(safe trace)과 안전 속성을 위반하는 상태 전이 순서열(unsafe trace)을 추출
+  + FASR은 이러한 두 종류의 trace를 비교하여 UCA의 유형을 분류
+    + 예를 들어, safe trace가 A ,B, C, D이고 unsafe trace가 A, B, D인 경우, 상태전이 C(대기에 해당하는 wait 가 아니라는 가정)가 누락되어 안전 속성이 위반되었다면 해당 UCA는 제어 행위 C가 제공되지 않은 상황으로 판단되어 Not Providing 유형으로 분류   
+
+
 
 ### 2026
 
