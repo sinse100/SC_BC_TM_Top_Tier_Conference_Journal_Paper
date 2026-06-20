@@ -275,6 +275,7 @@
 
 ### 2025
 
++ Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts
 + Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer
 + Voting-Bloc Entropy: A New Metric for DAO Decentralization
 + Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake
