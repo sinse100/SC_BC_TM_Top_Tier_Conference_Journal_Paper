@@ -543,7 +543,7 @@
 + Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs
 + [security/privacy] Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model
 + Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem
-+ [security/privacy] Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
++ [security/privacy] [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://daoyuan14.github.io/papers/ASE25_ZepCompare.pdf)
 + PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts
 + [VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods](https://pure.manchester.ac.uk/ws/portalfiles/portal/1632624289/ASE2025.pdf)
 + SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation
