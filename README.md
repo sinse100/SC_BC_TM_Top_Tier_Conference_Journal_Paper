@@ -798,6 +798,9 @@
 
 ## TOSEM
 
+### 2026
++ [Detecting and Analyzing Fine-grained Third-party Library Dependencies in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3765755)
+
 ### 2025
 + [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://dl.acm.org/doi/pdf/10.1145/3795692)
 
