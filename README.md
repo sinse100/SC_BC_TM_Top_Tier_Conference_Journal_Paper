@@ -275,7 +275,6 @@
 
 ### 2025
 
-+ Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts
 + Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer
 + Voting-Bloc Entropy: A New Metric for DAO Decentralization
 + Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake
@@ -296,6 +295,9 @@
 + TockOwl: Asynchronous Consensus with Fault and Network Adaptability
 + Recover from Excessive Faults in Partially-Synchronous BFT SMR
 + Thunderdome: Timelock-Free Rationally-Secure Virtual Channels
+
+### 2024
++ Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts
 
 ## CCS
 
