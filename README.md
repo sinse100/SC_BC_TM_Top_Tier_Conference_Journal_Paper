@@ -433,6 +433,11 @@
 
 ## ESORICS
 
+### 2026
++ HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attack.
++ SuccinCT: Succinct Confidential Transaction for Miner Privacy
++ Two Byzantine-only Enhanced Incentive Attacks on Ethereum PoS
+
 ### 2025
 
 + Anamorphic Monero Transactions: the Threat of Bypassing Anti-Money Laundering Laws
