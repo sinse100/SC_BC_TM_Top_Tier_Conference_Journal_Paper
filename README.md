@@ -1,44 +1,3 @@
-
-# 출처
-
-+ [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
-+ [교수님 페이스북]()
-+ [교수님 블로그](https://blog.naver.com/amhoin/221291896225)
-+ 교수님 강의자료
-+ [BK21 CS 국제우수학술대회](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
-+ [서울대학교 공과대학 컴퓨터공학부 Top Conference List](https://cse.snu.ac.kr/research/top-conference-list)
-+ [TEXAS A&M Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm?fbclid=IwY2xjawPuWZdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeSVeB93ATtZNE2FK-ntndoTJqzU20b-ZysEUjD0UgoD6a8-os7w3foj3ooMo_aem_EBo5mpejpTVl4oxmZ3wcdw)
-
----
-
-# Blockchain & Smart Contract Celebrities
-
-+ [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao) (Co-Founder of Ethereum)
-+ Gavin Wood (Co-Founder of Ethereum)
-+ Silvio Micali (Co-Founder of ZKP, Turing Awards Winner, Founder of Algorand)
-+ Charles Hoskinson (Founder of Cardano)
-+ Victor Shoup
-+ Hal Finney (Co-Developer of Bitcoin)
-+ Shafi Goldwasser (Co-Founder of ZKP, Turing Awards Winner)
-+ Leslie Lamport (Turing Awards Winner)
-
----
-
-# Threat Modeling Celebrities
-
-+ Adam Shostack (Co-Founder of CVE, Author of 'Threat Modeling: Designing for Security', Lead Designer of Microsoft SDL Threat Modeling Tool)
-+ Bruce Schneier (Founder of Attack Tree)
-+ Loren Kohnfelder (Founder of STRIDE)
-+ Mina Deng (Founder of LINDDUN)
-
----
-
-# Etc Celebrities
-
-+ Edmund Melson Clarke (Founder of Model Checking, Turing Awards Winner)
-
----
-
 # List of Top Tier Journal
 
 + IEEE Transactions on Information Forensics and Security (TIFS)
@@ -108,6 +67,7 @@
 + ACM International Conference on the Foundations of Software Engineering (**FSE**)
 + ACM/IEEE International Conference on Model-Driven Engineering Languages and Systems (**MODELS**)
 + International Conference on Software Architecture (**ICSA**)
++ IEEE International Conference on Software Maintenance and Evolution (**ICSME**)
 + Annual AAAI Conference on Artificial Intelligence (**AAAI**)
 + International Conference on Learning Representations (**ICLR**)
 + International Conference on Machine Learning (**ICML**)
@@ -169,6 +129,34 @@
 + Workshop on the Security of Space and Satellite Systems (SpaceSec)
 + International Workshop on Formal Methods for Blockchains (FMBC)
 + Symposium on Vehicle Security and Privacy (VehicleSec)
+
+---
+
+# Blockchain & Smart Contract Celebrities
+
++ [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao) (Co-Founder of Ethereum)
++ Gavin Wood (Co-Founder of Ethereum)
++ Silvio Micali (Co-Founder of ZKP, Turing Awards Winner, Founder of Algorand)
++ Charles Hoskinson (Founder of Cardano)
++ Victor Shoup
++ Hal Finney (Co-Developer of Bitcoin)
++ Shafi Goldwasser (Co-Founder of ZKP, Turing Awards Winner)
++ Leslie Lamport (Turing Awards Winner)
+
+---
+
+# Threat Modeling Celebrities
+
++ Adam Shostack (Co-Founder of CVE, Author of 'Threat Modeling: Designing for Security', Lead Designer of Microsoft SDL Threat Modeling Tool)
++ Bruce Schneier (Founder of Attack Tree)
++ Loren Kohnfelder (Founder of STRIDE)
++ Mina Deng (Founder of LINDDUN)
+
+---
+
+# Etc Celebrities
+
++ Edmund Melson Clarke (Founder of Model Checking, Turing Awards Winner)
 
 ---
 
@@ -1558,3 +1546,15 @@
 
 ### 2025
 + [Research Track] From Concealment to Exposure: Understanding the Lifecycle and Infrastructure of APT Domains
+
+---
+
+# 출처
+
++ [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
++ [교수님 페이스북]()
++ [교수님 블로그](https://blog.naver.com/amhoin/221291896225)
++ 교수님 강의자료
++ [BK21 CS 국제우수학술대회](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
++ [서울대학교 공과대학 컴퓨터공학부 Top Conference List](https://cse.snu.ac.kr/research/top-conference-list)
++ [TEXAS A&M Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm?fbclid=IwY2xjawPuWZdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeSVeB93ATtZNE2FK-ntndoTJqzU20b-ZysEUjD0UgoD6a8-os7w3foj3ooMo_aem_EBo5mpejpTVl4oxmZ3wcdw)
