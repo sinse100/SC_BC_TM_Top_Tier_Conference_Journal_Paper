@@ -113,15 +113,15 @@
 + ACM SIGMOD International Conference on Management of Data (SIGMOD)
 + European Conference on Computer Systems (EuroSys)
 + ACM/IFIP International Middleware Conference (Middleware)
-+ ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)
-+ ACM SIGPLAN Symposium on Principles of Programming Languages (POPL)
-+ ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)
-+ European Symposium on Programming (ESOP)
-+ International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH)
-+ ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH Asia)
-+ ACM/IEEE Design Automation Conference (DAC)
-+ International Symposium on Computer Architecture (ISCA)
-+ ACM SIGOPS Annual Technical Conference (ATC, previously known as USENIX Annual Technical Conference)
++ ACM SIGPLAN Conference on Programming Language Design and Implementation (**PLDI**)
++ ACM SIGPLAN Symposium on Principles of Programming Languages (**POPL**)
++ ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (**OOPSLA**)
++ European Symposium on Programming (**ESOP**)
++ International Conference on Computer Graphics and Interactive Techniques (**SIGGRAPH**)
++ ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (**SIGGRAPH Asia**)
++ ACM/IEEE Design Automation Conference (**DAC**)
++ International Symposium on Computer Architecture (**ISCA**)
++ ACM SIGOPS Annual Technical Conference (**ATC**, previously known as USENIX Annual Technical Conference)
 <!-- "+ Symposium on Access Control Models and Technologies (SACMAT) -->
 
 ### workshop
@@ -1112,6 +1112,12 @@
 ### 2023
 
 + [Formally Verified Software Update Management System in Automotive](https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23087-paper.pdf)
+
+## DAC
+
+### 2026
+
++ ATLAS: AI-Assisted Threat-to-Assertion Learning for System-on-Chip Security Verification
         
 ## Blackhat Europe
 
