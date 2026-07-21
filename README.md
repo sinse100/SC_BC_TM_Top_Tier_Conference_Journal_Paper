@@ -455,6 +455,16 @@
 
 ## ISSTA
 
+### 2026
++ TrapHunter: Exposing Covert Pathways in Trap Token Contracts
++ Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis
++ TracePilot: Self-verifiable Framework for Decentralized Applications Fault Localization across Transactions
++ SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning
++ RPCSpecter: Detecting Blockchain RPC Bugs through a Specification-Driven, Constraint-Aware Fuzzing Approach
++ Exploiting Ethereum Rollback Semantics: Profit-Driven Attack Synthesis and Off-Chain Misinterpretation Testing
++ EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems
++ Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts
+
 ### 2025
 
 + Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
