@@ -157,7 +157,7 @@
 # Etc Celebrities
 
 + Edmund Melson Clarke (Founder of Model Checking, Turing Awards Winner)
-
++ Egon Börger (Founder of Abstract State Machine)
 ---
 
 # Blockchain & Smart Contract Paper
