@@ -197,6 +197,9 @@
 + Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
 + [Poster] Decentralized Trustless Query-Based Collaborative Learning under Adversarial Heterogeneity without Model Sharing
 
+### 2024
++ [SoK: Security and Privacy of Blockchain Interoperability](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.24595764.v4)
+
 ### 2020
 
 + [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9152675&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
