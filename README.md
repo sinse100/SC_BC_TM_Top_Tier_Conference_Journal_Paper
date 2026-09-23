@@ -1635,6 +1635,21 @@
 
 ---
 
+# From Natural Language Requirement To System Model
+
+## MODELS
+### 2026
++ A Transformation-Based Benchmark for Evaluating the Robustness of LLMs in Generating OCL
++ Large Language Models Assistance in core Model-Driven Engineering activities
++ LLM-Based Instance Model Generation via Code Synthesis
++ LLM-Enhanced Stochastic Generation of Class Diagram Datasets
++ The impact of Software Model Slicing on Software Model Completion with Large Language Models
++ Towards LLM-Assisted Business Process Modeling in an Industrial Modeling Tool: An Experience Report
++ [Tools and Demonstrations] AMIGO: Agentic Model Instance Generation
++ [Doctoral Symposium] Trustworthy generation of SysML v2 models for physical systems: a multi-agent approach
+
+---
+
 # National Cyber Security & APT
 
 ## AsiaCCS
