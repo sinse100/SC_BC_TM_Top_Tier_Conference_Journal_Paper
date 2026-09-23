@@ -1666,6 +1666,18 @@
 + [Automated Domain Modeling with Large Language Models: A Comparative Study](https://www.researchgate.net/profile/Jose-Antonio-Hernandez-Lopez/publication/376463235_Automated_Domain_Modeling_with_Large_Language_Models_A_Comparative_Study/links/66032b95907e3f27ee6b8bad/Automated-Domain-Modeling-with-Large-Language-Models-A-Comparative-Study.pdf)
 + Toward a Symbiotic Approach Leveraging Generative AI for Model Driven Engineering
 
+
+## RE
+### 2026
+
+### 2025
+
+### 2024
+
+### 2023
++ [Zero-shot Learning for Named Entity Recognition in Software Specification Documents](https://iris.unive.it/bitstream/10278/5105607/1/RE23_camera_ready.pdf)
++ [Posters and Tool Demos] NL2PD: A Tool for Problem Diagram Generation from Requirements in Natural Language
+
 ---
 
 # National Cyber Security & APT
