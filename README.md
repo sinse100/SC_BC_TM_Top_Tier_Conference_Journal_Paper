@@ -1651,7 +1651,7 @@
 ### 2025
 + [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630)
   + 모델 생성부보다는 생성된 모델의 검증 쪽에 대한 논문이나, 우리도 결국 모델을 LLM으로 생성하고 검증을 해야할 것이기에 검증 쪽에 참고할 수 있을 듯    
-+ [Accurate and Consistent Graph Model Generation from Text with Large Language Models](https://arxiv.org/pdf/2508.00255)(https://arxiv.org/abs/2508.00255)
++ [Accurate and Consistent Graph Model Generation from Text with Large Language Models](https://arxiv.org/pdf/2508.00255)
 
 ---
 
