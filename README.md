@@ -1662,6 +1662,9 @@
 + [Tools and Demonstrations] [DSL-Xpert: LLM-driven Generic DSL Code Generation](https://dl.acm.org/doi/pdf/10.1145/3652620.3687782)
 + [Doctoral Symposium] [AI Assisted Domain Modeling Explainability and Traceability](https://dl.acm.org/doi/pdf/10.1145/3652620.3688197)
 
+### 2023
++ [Automated Domain Modeling with Large Language Models: A Comparative Study](https://www.researchgate.net/profile/Jose-Antonio-Hernandez-Lopez/publication/376463235_Automated_Domain_Modeling_with_Large_Language_Models_A_Comparative_Study/links/66032b95907e3f27ee6b8bad/Automated-Domain-Modeling-with-Large-Language-Models-A-Comparative-Study.pdf)
++ Toward a Symbiotic Approach Leveraging Generative AI for Model Driven Engineering
 
 ---
 
