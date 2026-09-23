@@ -1659,6 +1659,8 @@
 ### 2024
 + [AI-Driven Consistency of SysML Diagrams](https://dl.acm.org/doi/pdf/10.1145/3640310.3674079)
 + [Automated derivation of uml sequence diagrams from user stories: Unleashing the power of generative ai vs. a rule-based approach](https://dl.acm.org/doi/pdf/10.1145/3640310.3674081)
++ [Tools and Demonstrations] [DSL-Xpert: LLM-driven Generic DSL Code Generation](https://dl.acm.org/doi/pdf/10.1145/3652620.3687782)
++ [Doctoral Symposium] [AI Assisted Domain Modeling Explainability and Traceability](https://dl.acm.org/doi/pdf/10.1145/3652620.3688197)
 
 
 ---
