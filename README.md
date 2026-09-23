@@ -681,6 +681,9 @@
 + [Modal Abstractions for Smart Contract Validation](https://www.iog.io/api/research/pdf/5HUGIWJ5)
   + MODELS 2022 년의 'Predicate abstractions for smart contract validation' 논문의 후속 연구 논문
 
+### 2024 
++ [Requirement-Driven Generation of Distributed Ledger Architectures](https://marussy.com/papers/models24.pdf)
+
 ### 2022
 
 + [Predicate abstractions for smart contract validation](https://dl.acm.org/doi/pdf/10.1145/3550355.3552462)
@@ -1652,6 +1655,11 @@
 + [MCeT: Behavioral Model Correctness Evaluation using Large Language Models](https://arxiv.org/abs/2508.00630)
   + 모델 생성부보다는 생성된 모델의 검증 쪽에 대한 논문이나, 우리도 결국 모델을 LLM으로 생성하고 검증을 해야할 것이기에 검증 쪽에 참고할 수 있을 듯    
 + [Accurate and Consistent Graph Model Generation from Text with Large Language Models](https://arxiv.org/pdf/2508.00255)
+
+### 2024
++ [AI-Driven Consistency of SysML Diagrams](https://dl.acm.org/doi/pdf/10.1145/3640310.3674079)
++ [Automated derivation of uml sequence diagrams from user stories: Unleashing the power of generative ai vs. a rule-based approach](https://dl.acm.org/doi/pdf/10.1145/3640310.3674081)
+
 
 ---
 
