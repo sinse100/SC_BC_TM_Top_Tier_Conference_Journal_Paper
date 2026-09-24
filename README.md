@@ -1679,6 +1679,11 @@
 + [Posters and Tool Demos] NL2PD: A Tool for Problem Diagram Generation from Requirements in Natural Language
 
 ## ASE
+
+### 2026
++ SpecFSM: Extracting and Repairing Finite State Machines from Protocol Specification Documents
++ [RFC2TLA+: Extracting and Verifying Formal Models from RFC Documents using Continuous LLM Feedback](https://security.csl.toronto.edu/wp-content/uploads/2026/08/gding-ase2026-rfc2tla.pdf)
+
 ### 2024
 + [Poster] [Towards LLM-augmented multiagent systems for agile software engineering](https://repo.pw.edu.pl/docstore/download.seam?entityType=article&entityId=WUT54c721f34cd24dd7aac164348022f1b3&fileId=WUTf6d6ac0e425447f985cb29a5ef19d28c)
 + [Tool Demonstrations] [[LLM4Workflow: An LLM-based Automated Workflow Model Generation Tool](https://dl.acm.org/doi/pdf/10.1145/3691620.3695360)
