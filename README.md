@@ -1703,6 +1703,11 @@
 ## 2023
 + [SEIP - Software Engineering in Practice] Doctomodel: Automated authoring of models from diverse requirements specification documents
 
+## FSE
+
+### 2024
++ [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://dl.acm.org/doi/pdf/10.1145/3660791)
+
 ---
 
 # National Cyber Security & APT
