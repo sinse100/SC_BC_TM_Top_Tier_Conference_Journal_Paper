@@ -1678,6 +1678,11 @@
 + [Zero-shot Learning for Named Entity Recognition in Software Specification Documents](https://iris.unive.it/bitstream/10278/5105607/1/RE23_camera_ready.pdf)
 + [Posters and Tool Demos] NL2PD: A Tool for Problem Diagram Generation from Requirements in Natural Language
 
+## ASE
+### 2024
++ [Poster] [Towards LLM-augmented multiagent systems for agile software engineering](https://repo.pw.edu.pl/docstore/download.seam?entityType=article&entityId=WUT54c721f34cd24dd7aac164348022f1b3&fileId=WUTf6d6ac0e425447f985cb29a5ef19d28c)
++ [Tool Demonstrations] [[LLM4Workflow: An LLM-based Automated Workflow Model Generation Tool](https://dl.acm.org/doi/pdf/10.1145/3691620.3695360)
+
 ---
 
 # National Cyber Security & APT
