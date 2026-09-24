@@ -1691,6 +1691,14 @@
 + [Poster] [Towards LLM-augmented multiagent systems for agile software engineering](https://repo.pw.edu.pl/docstore/download.seam?entityType=article&entityId=WUT54c721f34cd24dd7aac164348022f1b3&fileId=WUTf6d6ac0e425447f985cb29a5ef19d28c)
 + [Tool Demonstrations] [[LLM4Workflow: An LLM-based Automated Workflow Model Generation Tool](https://dl.acm.org/doi/pdf/10.1145/3691620.3695360)
 
+## ICSE
+
+### 2026
+
+### 2025
++ [Software Engineering in Practice] UML Sequence Diagram Generation: A Multi-Model, Multi-Domain Evaluation
++ LLM-aided Automatic Modeling for Security Protocol Verification
+
 ---
 
 # National Cyber Security & APT
