@@ -1694,6 +1694,7 @@
 ## ICSE
 
 ### 2026
++ [Software Engineering in Practice (SEIP)] [Spec2Control: Automating PLC/DCS Control-Logic Engineering from Natural Language Requirements with LLMs - A Multi-Plant Evaluation](https://dl.acm.org/doi/pdf/10.1145/3786583.3786897)
 
 ### 2025
 + [Software Engineering in Practice] UML Sequence Diagram Generation: A Multi-Model, Multi-Domain Evaluation
