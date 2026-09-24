@@ -1708,6 +1708,15 @@
 ### 2024
 + [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://dl.acm.org/doi/pdf/10.1145/3660791)
 
+## ISCA
+
+### 2026
++ Towards AI-Enabled Engineering of Digital Twins: An Architecture-Centric Approach
+
+### 2025
++ Architecture Exploration and Reflection meet LLM-based Agents
+
+
 ---
 
 # National Cyber Security & APT
