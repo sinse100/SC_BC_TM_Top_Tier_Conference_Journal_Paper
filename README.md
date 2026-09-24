@@ -1700,6 +1700,9 @@
 + [Software Engineering in Practice] UML Sequence Diagram Generation: A Multi-Model, Multi-Domain Evaluation
 + LLM-aided Automatic Modeling for Security Protocol Verification
 
+## 2023
++ [SEIP - Software Engineering in Practice] Doctomodel: Automated authoring of models from diverse requirements specification documents
+
 ---
 
 # National Cyber Security & APT
